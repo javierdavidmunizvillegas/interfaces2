@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\MONICA\RepositorioInterfaces\interfaces\ICAJ023.api\ICAJ023.api\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2022-01-04T23:48:28.7526293Z;True|2021-12-29T16:25:53.4147116-05:00;True|2021-11-29T17:55:18.9678739-05:00;True|2021-11-29T17:50:22.7104816-05:00;True|2021-11-29T10:24:51.5334701-05:00;True|2021-11-29T10:04:59.1310428-05:00;True|2021-10-15T15:22:26.4263798-05:00;True|2021-10-01T21:40:24.0994878-05:00;True|2021-06-06T20:12:42.0538016-05:00;</History>
+  </PropertyGroup>
+</Project>

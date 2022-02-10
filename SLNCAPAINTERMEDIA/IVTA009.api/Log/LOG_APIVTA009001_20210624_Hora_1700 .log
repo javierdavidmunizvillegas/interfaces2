@@ -1,0 +1,10 @@
+2021-06-24 T 17:01:33 || CONTROLADOR: Request Recibido: {"Enviroment":"DEV06","ApInventTable":{"ItemId":"1405 moto","VendAccount":"1001","PurchPrice":2.0},"SessionId":null,"DataAreaId":"USMF"}
+2021-06-24 T 17:01:37 || SERVICIO RESPONSE : Número de  intentos realizados : 3, Tiempo Transcurrido : 4381 ms.
+2021-06-24 T 17:01:37 || CONTROLADOR: Request Enviado a Dynamics: {"Enviroment":"DEV06","ApInventTable":{"ItemId":"1405 moto","VendAccount":"1001","PurchPrice":2.0},"SessionId":"4852a796-9a9f-4cb9-a598-4a2368f92b22","DataAreaId":"USMF"}
+2021-06-24 T 17:03:02 || SERVICIO RESPONSE : Número de  intentos realizados : 10, Tiempo Transcurrido : 80259 ms.
+2021-06-24 T 17:03:02 || CONTROLADOR: No se retorno resultado de Dynamics
+2021-06-24 T 17:03:13 || CONTROLADOR: Request Recibido: {"Enviroment":"DEV06","ApInventTable":{"ItemId":"1405 moto","VendAccount":"1001","PurchPrice":2.0},"SessionId":null,"DataAreaId":"000001"}
+2021-06-24 T 17:03:13 || SERVICIO RESPONSE : Número de  intentos realizados : 3, Tiempo Transcurrido : 315 ms.
+2021-06-24 T 17:03:13 || CONTROLADOR: Request Enviado a Dynamics: {"Enviroment":"DEV06","ApInventTable":{"ItemId":"1405 moto","VendAccount":"1001","PurchPrice":2.0},"SessionId":"0240338b-efa9-47a1-91f2-0c7666ffb720","DataAreaId":"0001"}
+2021-06-24 T 17:04:37 || SERVICIO RESPONSE : Número de  intentos realizados : 10, Tiempo Transcurrido : 80219 ms.
+2021-06-24 T 17:04:37 || CONTROLADOR: No se retorno resultado de Dynamics

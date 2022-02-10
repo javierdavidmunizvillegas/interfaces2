@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\MONICA\RepositorioInterfaces\interfaces\IVTA004\IVTA004.api\IVTA004.api\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2022-01-04T20:19:01.5802926Z;True|2021-12-30T10:52:24.0084042-05:00;True|2021-12-28T10:26:25.3779258-05:00;True|2021-12-27T15:15:36.4736131-05:00;True|2021-12-08T10:49:45.3528164-05:00;True|2021-12-08T10:42:31.4990532-05:00;True|2021-12-07T18:24:55.9436625-05:00;True|2021-12-06T17:12:40.1798823-05:00;True|2021-12-06T17:08:40.3238127-05:00;True|2021-12-06T16:56:42.5677935-05:00;True|2021-12-03T18:13:28.2336573-05:00;True|2021-11-17T11:41:59.2003053-05:00;True|2021-11-17T11:33:54.7469628-05:00;True|2021-11-17T11:33:38.9489937-05:00;True|2021-11-12T23:53:36.1569398-05:00;True|2021-11-12T17:28:07.5906697-05:00;True|2021-11-12T11:19:54.1947309-05:00;True|2021-09-13T16:16:51.5411910-05:00;True|2021-09-01T19:24:56.0249486-05:00;</History>
+  </PropertyGroup>
+</Project>

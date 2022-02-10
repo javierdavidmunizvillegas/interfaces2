@@ -1,0 +1,5 @@
+2021-06-28 T 20:35:40 || CONTROLADOR: Request Recibido: {"Enviroment":"TEST","ApInventTable":{"ItemId":"1405 moto","VendAccount":"1001","PurchPrice":2.0},"SessionId":null,"DataAreaId":"000001"}
+2021-06-28 T 20:35:46 || SERVICIO RESPONSE : Número de  intentos realizados : 3, Tiempo Transcurrido : 5166 ms.
+2021-06-28 T 20:35:46 || CONTROLADOR: Request Enviado a Dynamics: {"Enviroment":"TEST","ApInventTable":{"ItemId":"1405 moto","VendAccount":"1001","PurchPrice":2.0},"SessionId":"b79cd97f-4475-4c9a-a773-6c7556e5ebff","DataAreaId":"0001"}
+2021-06-28 T 20:36:10 || SERVICIO RESPONSE : Número de  intentos realizados : 2, Tiempo Transcurrido : 18425 ms.
+2021-06-28 T 20:36:10 || CONTROLADOR: Response desde Dynamics: {"SessionId":"b79cd97f-4475-4c9a-a773-6c7556e5ebff","StatusId":false,"TimeStartEnd":null,"ErrorList":["El producto 1405 moto no existe"]}

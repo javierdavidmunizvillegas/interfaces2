@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <History>True|2022-01-04T21:46:34.1760809Z;True|2022-01-04T15:32:25.3271980-05:00;True|2021-09-21T12:55:52.5768634-05:00;True|2021-09-17T10:31:42.7755601-05:00;True|2021-09-17T10:28:26.0073803-05:00;True|2021-09-17T10:26:23.0787826-05:00;True|2021-09-17T10:20:08.0885256-05:00;False|2021-09-17T10:18:49.7201485-05:00;True|2021-09-17T09:55:38.0760818-05:00;False|2021-09-17T09:54:42.3982709-05:00;True|2021-09-17T09:42:20.6544053-05:00;True|2021-09-17T09:42:12.3542271-05:00;True|2021-09-17T09:41:00.8795304-05:00;True|2021-09-16T20:18:30.5913899-05:00;False|2021-09-16T20:15:57.2466689-05:00;</History>
+    <_PublishTargetUrl>E:\MONICA\RepositorioInterfaces\interfaces\IPRO005.api\IPRO005.api\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>

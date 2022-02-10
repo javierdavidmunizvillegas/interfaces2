@@ -1,0 +1,10 @@
+2021-07-16 T 14:24:43 || VALIDADOR REQUEST: {"Value":{"StatusId":false,"ErrorList":["The SessionId field is required."],"SalesOrderCanceled":{"salesId":null,"salesStatus":null,"dateCanceled":"0001-01-01T00:00:00"},"TimeStartEnd":""},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":400}
+2021-07-16 T 14:25:44 || VALIDADOR REQUEST: {"Value":{"StatusId":false,"ErrorList":["The SessionId field is required.","The Enviroment field is required."],"SalesOrderCanceled":{"salesId":null,"salesStatus":null,"dateCanceled":"0001-01-01T00:00:00"},"TimeStartEnd":""},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":400}
+2021-07-16 T 14:26:52 || VALIDADOR REQUEST: {"Value":{"StatusId":false,"ErrorList":["The SessionId field is required."],"SalesOrderCanceled":{"salesId":null,"salesStatus":null,"dateCanceled":"0001-01-01T00:00:00"},"TimeStartEnd":""},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":400}
+2021-07-16 T 14:27:09 || CONTROLADOR: Request Recibido: {"SalesId":"HOLA","CustomerRef":"DAKJ","DataAreaId":"000001","Enviroment":"TEST","SessionId":"20943092039"}
+2021-07-16 T 14:27:39 || WS HOMOLOGACION : Número de  intentos realizados : 3, Tiempo Transcurrido : 29416 ms.
+2021-07-16 T 14:27:39 || CONTROLADOR WS HOMOLOGACION: No se retorno resultado de Homologación
+2021-07-16 T 14:27:56 || VALIDADOR REQUEST: {"Value":{"StatusId":false,"ErrorList":["The SessionId field is required."],"SalesOrderCanceled":{"salesId":null,"salesStatus":null,"dateCanceled":"0001-01-01T00:00:00"},"TimeStartEnd":""},"Formatters":[],"ContentTypes":[],"DeclaredType":null,"StatusCode":400}
+2021-07-16 T 14:33:36 || CONTROLADOR: Request Recibido: {"SalesId":"HOLA","CustomerRef":"DAKJ","DataAreaId":"000001","Enviroment":"TEST","SessionId":""}
+2021-07-16 T 14:33:54 || WS HOMOLOGACION : Número de  intentos realizados : 3, Tiempo Transcurrido : 18011 ms.
+2021-07-16 T 14:33:54 || CONTROLADOR WS HOMOLOGACION: No se retorno resultado de Homologación

@@ -1,0 +1,210 @@
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.exe
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.deps.json
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.runtimeconfig.json
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.runtimeconfig.dev.json
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.pdb
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Azure.Core.Amqp.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Azure.Messaging.ServiceBus.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.csprojAssemblyReference.cache
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.AssemblyInfoInputs.cache
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.AssemblyInfo.cs
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.csproj.CoreCompileInputs.cache
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\staticwebassets\ICAJ001.api.StaticWebAssets.Manifest.cache
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\staticwebassets\ICAJ001.api.StaticWebAssets.xml
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\scopedcss\bundle\ICAJ001.api.styles.css
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.RazorTargetAssemblyInfo.cache
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.csproj.CopyComplete
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.dll
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.pdb
+C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.genruntimeconfig.cache
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.exe
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.deps.json
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.runtimeconfig.json
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.runtimeconfig.dev.json
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.pdb
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Azure.Core.Amqp.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Azure.Messaging.ServiceBus.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.csprojAssemblyReference.cache
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.AssemblyInfoInputs.cache
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.AssemblyInfo.cs
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.csproj.CoreCompileInputs.cache
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\staticwebassets\ICAJ001.api.StaticWebAssets.Manifest.cache
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\staticwebassets\ICAJ001.api.StaticWebAssets.xml
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\scopedcss\bundle\ICAJ001.api.styles.css
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.RazorTargetAssemblyInfo.cache
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.csproj.CopyComplete
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.dll
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.pdb
+C:\Users\Enrique\Desktop\PWC\Proyectos terminados\APIS\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.genruntimeconfig.cache
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.AssemblyInfoInputs.cache
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.AssemblyInfo.cs
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.csproj.CoreCompileInputs.cache
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.MvcApplicationPartsAssemblyInfo.cs
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.MvcApplicationPartsAssemblyInfo.cache
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.pdb
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\appsettings.json
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.exe
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.deps.json
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.runtimeconfig.json
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.runtimeconfig.dev.json
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.pdb
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Azure.Core.Amqp.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Azure.Messaging.ServiceBus.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\RestSharp.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\staticwebassets\ICAJ001.api.StaticWebAssets.Manifest.cache
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\staticwebassets\ICAJ001.api.StaticWebAssets.xml
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\scopedcss\bundle\ICAJ001.api.styles.css
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.RazorTargetAssemblyInfo.cache
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.csproj.CopyComplete
+E:\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.genruntimeconfig.cache
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\appsettings.json
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.exe
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.deps.json
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.runtimeconfig.json
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.runtimeconfig.dev.json
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.pdb
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Azure.Core.Amqp.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Azure.Messaging.ServiceBus.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\RestSharp.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.csproj.AssemblyReference.cache
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.GeneratedMSBuildEditorConfig.editorconfig
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.AssemblyInfoInputs.cache
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.AssemblyInfo.cs
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.csproj.CoreCompileInputs.cache
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.MvcApplicationPartsAssemblyInfo.cs
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.MvcApplicationPartsAssemblyInfo.cache
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\staticwebassets\ICAJ001.api.StaticWebAssets.Manifest.cache
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\staticwebassets\ICAJ001.api.StaticWebAssets.xml
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\scopedcss\bundle\ICAJ001.api.styles.css
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.RazorTargetAssemblyInfo.cache
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.csproj.CopyComplete
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.dll
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.pdb
+E:\MONICA\RepositorioInterfaces\interfaces\ICAJ001.api\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.genruntimeconfig.cache
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\appsettings.json
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.exe
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.deps.json
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.runtimeconfig.json
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.runtimeconfig.dev.json
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\ICAJ001.api.pdb
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\Azure.Core.Amqp.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\Azure.Messaging.ServiceBus.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\RestSharp.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.csproj.AssemblyReference.cache
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.GeneratedMSBuildEditorConfig.editorconfig
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.AssemblyInfoInputs.cache
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.AssemblyInfo.cs
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.csproj.CoreCompileInputs.cache
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.MvcApplicationPartsAssemblyInfo.cs
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.MvcApplicationPartsAssemblyInfo.cache
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\obj\Debug\netcoreapp3.1\staticwebassets\ICAJ001.api.StaticWebAssets.Manifest.cache
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\obj\Debug\netcoreapp3.1\staticwebassets\ICAJ001.api.StaticWebAssets.xml
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\obj\Debug\netcoreapp3.1\scopedcss\bundle\ICAJ001.api.styles.css
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.RazorTargetAssemblyInfo.cache
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.dll
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.pdb
+E:\MONICA\SIAC_INTERFACES2\SLNCAPAINTERMEDIA\ICAJ001.api\obj\Debug\netcoreapp3.1\ICAJ001.api.genruntimeconfig.cache

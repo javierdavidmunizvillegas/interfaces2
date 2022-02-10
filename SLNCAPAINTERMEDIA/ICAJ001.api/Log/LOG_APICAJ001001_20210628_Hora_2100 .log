@@ -1,0 +1,6 @@
+2021-06-28 T 21:07:00 || CONTROLADOR: Request Recibido: {"DataAreaId":null,"SessionId":null,"Enviroment":"TEST"}
+2021-06-28 T 21:07:04 || SERVICIO RESPONSE : Número de  intentos realizados : 3, Tiempo Transcurrido : 3983 ms.
+2021-06-28 T 21:07:04 || CONTROLADOR WS HOMOLOGACION: No se retorno resultado de Homologación
+2021-06-28 T 21:07:36 || CONTROLADOR: Request Recibido: {"DataAreaId":null,"SessionId":null,"Enviroment":"TEST"}
+2021-06-28 T 21:08:14 || SERVICIO RESPONSE : Número de  intentos realizados : 3, Tiempo Transcurrido : 14034 ms.
+2021-06-28 T 21:08:22 || CONTROLADOR WS HOMOLOGACION: No se retorno resultado de Homologación

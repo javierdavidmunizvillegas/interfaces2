@@ -1,0 +1,19 @@
+2021-06-02 T 12:49:57 || Azure.Messaging.ServiceBus.ServiceBusException: Put token failed. status-code: 404, status-description: The messaging entity 'sb://crecoscorp.servicebus.windows.net/apicre012001queuerequest' could not be found. To know more visit https://aka.ms/sbResourceMgrExceptions.  TrackingId:0c02ea89-d2b9-4b6c-928d-66e159434d06_G9, SystemTracker:crecoscorp.servicebus.windows.net:apicre012001queuerequest, Timestamp:2021-06-02T17:49:56. (MessagingEntityNotFound)
+   at Azure.Messaging.ServiceBus.Amqp.AmqpConnectionScope.CreateSendingLinkAsync(String entityPath, String identifier, AmqpConnection connection, TimeSpan timeout, CancellationToken cancellationToken)
+   at Azure.Messaging.ServiceBus.Amqp.AmqpConnectionScope.OpenSenderLinkAsync(String entityPath, String identifier, TimeSpan timeout, CancellationToken cancellationToken)
+   at Azure.Messaging.ServiceBus.Amqp.AmqpSender.CreateLinkAndEnsureSenderStateAsync(TimeSpan timeout, CancellationToken cancellationToken)
+   at Microsoft.Azure.Amqp.FaultTolerantAmqpObject`1.OnCreateAsync(TimeSpan timeout)
+   at Microsoft.Azure.Amqp.Singleton`1.GetOrCreateAsync(TimeSpan timeout)
+   at Microsoft.Azure.Amqp.Singleton`1.GetOrCreateAsync(TimeSpan timeout)
+   at Azure.Messaging.ServiceBus.Amqp.AmqpSender.SendBatchInternalAsync(Func`1 messageFactory, TimeSpan timeout, CancellationToken cancellationToken)
+   at Azure.Messaging.ServiceBus.Amqp.AmqpSender.SendBatchInternalAsync(Func`1 messageFactory, TimeSpan timeout, CancellationToken cancellationToken)
+   at Azure.Messaging.ServiceBus.Amqp.AmqpSender.<>c__DisplayClass20_0.<<SendAsync>b__1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Azure.Messaging.ServiceBus.ServiceBusRetryPolicy.RunOperation(Func`2 operation, TransportConnectionScope scope, CancellationToken cancellationToken)
+   at Azure.Messaging.ServiceBus.ServiceBusRetryPolicy.RunOperation(Func`2 operation, TransportConnectionScope scope, CancellationToken cancellationToken)
+   at Azure.Messaging.ServiceBus.Amqp.AmqpSender.SendAsync(IReadOnlyList`1 messages, CancellationToken cancellationToken)
+   at Azure.Messaging.ServiceBus.ServiceBusSender.SendMessagesAsync(IEnumerable`1 messages, CancellationToken cancellationToken)
+   at Azure.Messaging.ServiceBus.ServiceBusSender.SendMessageAsync(ServiceBusMessage message, CancellationToken cancellationToken)
+   at ICRE012.api.Infraestructure.Services.ManejadorRequest`1.EnviarMensajeAsync(String sesionId, String cadenaConexion, String nombreQueueRequest, T body) in C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICRE012.api\ICRE012.api\Infraestructure\Services\ManejadorRequest.cs:line 29
+   at ICRE012.api.Infraestructure.Services.ManejadorRequest`1.EnviarMensajeAsync(String sesionId, String cadenaConexion, String nombreQueueRequest, T body) in C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICRE012.api\ICRE012.api\Infraestructure\Services\ManejadorRequest.cs:line 33
+   at ICRE012.api.Controllers.ICRE012001Controller.APICRE012001(APICRE012001MessageRequest parametrorequest) in C:\Users\Enrique\Desktop\PROYECTOS TERMINADOS\PROYECTOS TERMINADOS 100%\ICRE012.api\ICRE012.api\Controllers\ICRE012001Controller.cs:line 62

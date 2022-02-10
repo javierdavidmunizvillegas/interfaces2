@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\MONICA\RepositorioInterfaces\interfaces\ICOB004.api\ICOB004.api\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2022-01-04T23:31:34.8921754Z;True|2021-10-29T11:03:28.1618769-05:00;True|2021-10-24T22:50:34.8145142-05:00;True|2021-10-24T22:31:45.2712975-05:00;True|2021-10-06T16:52:48.4751246-05:00;True|2021-10-05T18:56:24.4970874-05:00;True|2021-10-05T18:53:04.8587754-05:00;False|2021-10-05T18:49:40.4120259-05:00;True|2021-10-05T14:38:02.4989473-05:00;True|2021-10-04T17:54:39.4773022-05:00;True|2021-10-04T17:22:07.2186878-05:00;True|2021-10-04T17:05:13.2964840-05:00;True|2021-09-13T17:11:53.8325896-05:00;True|2021-06-25T22:26:37.0451918-05:00;False|2021-06-25T22:26:23.9874565-05:00;True|2021-05-12T22:00:06.1984529-05:00;</History>
+  </PropertyGroup>
+</Project>
