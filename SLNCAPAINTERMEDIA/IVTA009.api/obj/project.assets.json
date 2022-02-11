@@ -6334,19 +6334,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\victo\\.nuget\\packages\\": {}
+    "C:\\Users\\henry\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MONICA\\SIAC_INTERFACES2\\SLNCAPAINTERMEDIA\\IVTA009.api\\IVTA009.api.csproj",
+      "projectUniqueName": "C:\\Users\\henry\\source\\repos\\Interfaces Capa Integracion\\SLNCAPAINTERMEDIA\\IVTA009.api\\IVTA009.api.csproj",
       "projectName": "IVTA009.api",
-      "projectPath": "E:\\MONICA\\SIAC_INTERFACES2\\SLNCAPAINTERMEDIA\\IVTA009.api\\IVTA009.api.csproj",
-      "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "E:\\MONICA\\SIAC_INTERFACES2\\SLNCAPAINTERMEDIA\\IVTA009.api\\obj\\",
+      "projectPath": "C:\\Users\\henry\\source\\repos\\Interfaces Capa Integracion\\SLNCAPAINTERMEDIA\\IVTA009.api\\IVTA009.api.csproj",
+      "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\henry\\source\\repos\\Interfaces Capa Integracion\\SLNCAPAINTERMEDIA\\IVTA009.api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6354,7 +6354,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "E:\\MONICA\\pwc\\DataBaseProyect\\PaqueteNuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

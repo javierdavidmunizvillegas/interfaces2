@@ -1,0 +1,20 @@
+2021-06-29 T 16:31:31 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"TEST","SessionId":null,"Status":2,"TransDate":"0001-01-01T00:00:00"}
+2021-06-29 T 16:31:32 || SERVICIO RESPONSE : Número de  intentos realizados : 3, Tiempo Transcurrido : 1001 ms.
+2021-06-29 T 16:31:32 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"TEST","SessionId":"dfa70ce6-d68c-4626-bbc7-d20ac66ab67f","Status":2,"TransDate":"0001-01-01T00:00:00"}
+2021-06-29 T 16:31:59 || SERVICIO RESPONSE : Número de  intentos realizados : 4, Tiempo Transcurrido : 18087 ms.
+2021-06-29 T 16:31:59 || CONTROLADOR: No se retorno resultado de Dynamics
+2021-06-29 T 16:33:16 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"TEST","SessionId":null,"Status":2,"TransDate":"0001-01-01T00:00:00"}
+2021-06-29 T 16:33:16 || SERVICIO RESPONSE : Número de  intentos realizados : 3, Tiempo Transcurrido : 133 ms.
+2021-06-29 T 16:33:16 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"TEST","SessionId":"3f9ecc87-4bd4-4516-9fc7-03d5a1b6f40a","Status":2,"TransDate":"0001-01-01T00:00:00"}
+2021-06-29 T 16:33:38 || SERVICIO RESPONSE : Número de  intentos realizados : 4, Tiempo Transcurrido : 18067 ms.
+2021-06-29 T 16:33:38 || CONTROLADOR: No se retorno resultado de Dynamics
+2021-06-29 T 16:39:53 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"TEST","SessionId":null,"Status":2,"TransDate":"0001-01-01T00:00:00"}
+2021-06-29 T 16:39:53 || SERVICIO RESPONSE : Número de  intentos realizados : 3, Tiempo Transcurrido : 461 ms.
+2021-06-29 T 16:39:53 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"TEST","SessionId":"d21c3b83-3795-412c-967b-57d391559c87","Status":2,"TransDate":"0001-01-01T00:00:00"}
+2021-06-29 T 16:40:17 || SERVICIO RESPONSE : Número de  intentos realizados : 4, Tiempo Transcurrido : 18072 ms.
+2021-06-29 T 16:40:17 || CONTROLADOR: No se retorno resultado de Dynamics
+2021-06-29 T 16:41:55 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"TEST","SessionId":null,"Status":2,"TransDate":"0001-01-01T00:00:00"}
+2021-06-29 T 16:41:55 || WS HOMOLOGACION : Número de  intentos realizados : 3, Tiempo Transcurrido : 455 ms.
+2021-06-29 T 16:41:55 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"TEST","SessionId":"6df31e38-8a3c-41f6-b5ad-17c733f7c769","Status":2,"TransDate":"0001-01-01T00:00:00"}
+2021-06-29 T 16:42:19 || SERVICIO RESPONSE : Número de  intentos realizados : 4, Tiempo Transcurrido : 18112 ms.
+2021-06-29 T 16:43:00 || CONTROLADOR: No se retorno resultado de Dynamics

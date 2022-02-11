@@ -1,0 +1,20 @@
+2021-12-02 T 17:00:17 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"DEV015","SessionId":"{00000000-0000-0000-0000-000000000000}","DeliveryProductQuery":{"CustAccount":"0522","Invoice":"","ItemId":"","DeliveryType":""}}
+2021-12-02 T 17:00:17 || WS HOMOLOGACIÓN : Número de  intentos realizados : 0, Tiempo Transcurrido : 211 ms.
+2021-12-02 T 17:00:17 || Convierte Código CrecosAdynamics: Código a Crecos C000000522
+2021-12-02 T 17:00:17 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"SIT","SessionId":"9db864ce-fa13-4ee4-9d70-f480bf7020c9","DeliveryProductQuery":{"CustAccount":"C000000522","Invoice":"","ItemId":"","DeliveryType":""}}
+2021-12-02 T 17:00:21 || WS HOMOLOGACIÓN : Número de  intentos realizados : 3, Tiempo Transcurrido : 82307 ms.
+2021-12-02 T 17:00:21 || CONTROLADOR WS HOMOLOGACION: No se retorno resultado de Homologación
+2021-12-02 T 17:00:37 || SERVICIO RESPONSE : Número de  intentos realizados : 1, Tiempo Transcurrido : 8571 ms.
+2021-12-02 T 17:00:37 || CONTROLADOR: Response desde Dynamics: {"SessionId":"9db864ce-fa13-4ee4-9d70-f480bf7020c9","StatusId":false,"ErrorList":["Not Found-"],"DeliveryProduct":null,"TimeStartEnd":null}
+2021-12-02 T 17:24:19 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"SIT","SessionId":"","DeliveryProductQuery":{"CustAccount":"0522","Invoice":"","ItemId":"","DeliveryType":""}}
+2021-12-02 T 17:24:19 || WS HOMOLOGACIÓN : Número de  intentos realizados : 0, Tiempo Transcurrido : 483 ms.
+2021-12-02 T 17:24:19 || Convierte Código CrecosAdynamics: Código a Crecos C000000522
+2021-12-02 T 17:24:19 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"SIT","SessionId":"c463cedc-4fff-423b-9889-e5ecf7206f12","DeliveryProductQuery":{"CustAccount":"C000000522","Invoice":"","ItemId":"","DeliveryType":""}}
+2021-12-02 T 17:24:35 || SERVICIO RESPONSE : Número de  intentos realizados : 1, Tiempo Transcurrido : 2184 ms.
+2021-12-02 T 17:24:35 || CONTROLADOR: Response desde Dynamics: {"SessionId":"c463cedc-4fff-423b-9889-e5ecf7206f12","StatusId":false,"ErrorList":["Not Found-"],"DeliveryProduct":null}
+2021-12-02 T 17:30:36 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"SIT","SessionId":"","DeliveryProductQuery":{"CustAccount":"0522","Invoice":"","ItemId":"","DeliveryType":""}}
+2021-12-02 T 17:30:37 || WS HOMOLOGACIÓN : Número de  intentos realizados : 0, Tiempo Transcurrido : 719 ms.
+2021-12-02 T 17:30:37 || Convierte Código CrecosAdynamics: Código a Crecos C000000522
+2021-12-02 T 17:30:37 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"DEV015","SessionId":"a940198a-47a3-42f7-a8cf-9d898e319bec","DeliveryProductQuery":{"CustAccount":"C000000522","Invoice":"","ItemId":"","DeliveryType":""}}
+2021-12-02 T 17:31:13 || SERVICIO RESPONSE : Número de  intentos realizados : 3, Tiempo Transcurrido : 23272 ms.
+2021-12-02 T 17:31:13 || CONTROLADOR: Response desde Dynamics: {"SessionId":"a940198a-47a3-42f7-a8cf-9d898e319bec","StatusId":false,"ErrorList":["-"],"DeliveryProduct":null}

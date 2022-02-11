@@ -1,0 +1,21 @@
+2021-10-15 T 13:25:37 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"SIT","SessionId":"","APDationRequests":{"CustAccount":"00000335","DationNumber":"Dac-000000021","InvoiceDateFrom":"2021-11-30T23:59:59Z","InvoiceDateTo":"2021-11-30T23:59:59Z","InvoiceId":"001-002-000000789","RecallDocument":"888"}}
+2021-10-15 T 13:25:38 || WS HOMOLOGACION : Número de  intentos realizados : 0, Tiempo Transcurrido : 921 ms.
+2021-10-15 T 13:25:38 || Convierte Código CrecosAdynamics: Código a Crecos C000000335
+2021-10-15 T 13:25:38 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"SIT","SessionId":"27ddf693-7f42-4ff0-8f35-d8536605f5cf","APDationRequests":{"CustAccount":"C000000335","DationNumber":"Dac-000000021","InvoiceDateFrom":"2021-11-30T23:59:59Z","InvoiceDateTo":"2021-11-30T23:59:59Z","InvoiceId":"001-002-000000789","RecallDocument":"888"}}
+2021-10-15 T 13:26:11 || SERVICIO RESPONSE : Número de  intentos realizados : 0, Tiempo Transcurrido : 17204 ms.
+2021-10-15 T 13:26:14 || CONTROLADOR: Response desde Dynamics: {"SessionId":"27ddf693-7f42-4ff0-8f35-d8536605f5cf","StatusId":false,"ErrorList":["Sin resultados"],"APDationResponse":null}
+2021-10-15 T 13:27:03 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"SIT","SessionId":"","APDationRequests":{"CustAccount":"00000335","DationNumber":"Dac-000000021","InvoiceDateFrom":"2021-11-30T23:59:59Z","InvoiceDateTo":"2021-11-30T23:59:59Z","InvoiceId":"001-002-000000789","RecallDocument":"888"}}
+2021-10-15 T 13:27:26 || WS HOMOLOGACION : Número de  intentos realizados : 1, Tiempo Transcurrido : 23053 ms.
+2021-10-15 T 13:27:26 || Convierte Código CrecosAdynamics: Código a Crecos C000000335
+2021-10-15 T 13:27:26 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"SIT","SessionId":"c5cf80a7-0bba-48cf-a873-67319d418e5b","APDationRequests":{"CustAccount":"C000000335","DationNumber":"Dac-000000021","InvoiceDateFrom":"2021-11-30T23:59:59Z","InvoiceDateTo":"2021-11-30T23:59:59Z","InvoiceId":"001-002-000000789","RecallDocument":"888"}}
+2021-10-15 T 13:29:03 || CONTROLADOR: ERROR: Microsoft.Azure.ServiceBus.SessionLockLostException: The session lock has expired on the MessageSession. Accept a new MessageSession.
+   at Microsoft.Azure.ServiceBus.Core.MessageReceiver.DisposeMessagesAsync(IEnumerable`1 lockTokens, Outcome outcome)
+   at Microsoft.Azure.ServiceBus.RetryPolicy.RunOperation(Func`1 operation, TimeSpan operationTimeout)
+   at Microsoft.Azure.ServiceBus.RetryPolicy.RunOperation(Func`1 operation, TimeSpan operationTimeout)
+   at Microsoft.Azure.ServiceBus.Core.MessageReceiver.CompleteAsync(IEnumerable`1 lockTokens)
+   at ICOB009.api.Infraestructure.Services.ManejadorResponse`1.RecibeMensajeSesion(String cadenaConexion, String nombreCola, String sesionId, Int32 segundos, Int32 intentos, Int32 tiempo, String nombre) in C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\COMPLETAS LOG\ICOB009.api\ICOB009.api\Infraestructure\Services\ManejadorResponse.cs:line 49
+   at ICOB009.api.Controllers.ICOB009001Controller.APICOB009001(APICOB009001MessageRequest parametrorequest) in C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\COMPLETAS LOG\ICOB009.api\ICOB009.api\Controllers\ICOB009001Controller.cs:line 108
+2021-10-15 T 13:29:44 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"SIT","SessionId":"","APDationRequests":{"CustAccount":"00000335","DationNumber":"Dac-000000021","InvoiceDateFrom":"2021-10-14T23:59:59Z","InvoiceDateTo":"2021-10-15T23:59:59Z","InvoiceId":"001-002-000000789","RecallDocument":"888"}}
+2021-10-15 T 13:30:06 || WS HOMOLOGACION : Número de  intentos realizados : 1, Tiempo Transcurrido : 22183 ms.
+2021-10-15 T 13:30:06 || Convierte Código CrecosAdynamics: Código a Crecos C000000335
+2021-10-15 T 13:30:06 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"SIT","SessionId":"3353ef82-d695-4365-a2ae-c96327d187aa","APDationRequests":{"CustAccount":"C000000335","DationNumber":"Dac-000000021","InvoiceDateFrom":"2021-10-14T23:59:59Z","InvoiceDateTo":"2021-10-15T23:59:59Z","InvoiceId":"001-002-000000789","RecallDocument":"888"}}
