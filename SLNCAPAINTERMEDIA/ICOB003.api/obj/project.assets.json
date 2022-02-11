@@ -6367,19 +6367,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\henry\\.nuget\\packages\\": {}
+    "C:\\Users\\victo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\henry\\source\\repos\\Interfaces Capa Integracion\\SLNCAPAINTERMEDIA\\ICOB003.api\\ICOB003.api.csproj",
+      "projectUniqueName": "E:\\MONICA\\SIAC_INTERFACES2\\SLNCAPAINTERMEDIA\\ICOB003.api\\ICOB003.api.csproj",
       "projectName": "ICOB003.api",
-      "projectPath": "C:\\Users\\henry\\source\\repos\\Interfaces Capa Integracion\\SLNCAPAINTERMEDIA\\ICOB003.api\\ICOB003.api.csproj",
-      "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\henry\\source\\repos\\Interfaces Capa Integracion\\SLNCAPAINTERMEDIA\\ICOB003.api\\obj\\",
+      "projectPath": "E:\\MONICA\\SIAC_INTERFACES2\\SLNCAPAINTERMEDIA\\ICOB003.api\\ICOB003.api.csproj",
+      "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+      "outputPath": "E:\\MONICA\\SIAC_INTERFACES2\\SLNCAPAINTERMEDIA\\ICOB003.api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6387,6 +6387,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "E:\\MONICA\\pwc\\DataBaseProyect\\PaqueteNuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
