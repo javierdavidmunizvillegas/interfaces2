@@ -149,6 +149,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IVTA007", "IVTA007\IVTA007\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IVTA007_002", "IVTA007\IVTA007_002\IVTA007_002.csproj", "{A54B4206-EBC5-4FC2-8191-EFDC8C12D825}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICRE001.api", "ICRE001.api\ICRE001.api\ICRE001.api.csproj", "{B8279432-3EB0-4422-AFB1-0D8A15B31843}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -741,6 +743,14 @@ Global
 		{A54B4206-EBC5-4FC2-8191-EFDC8C12D825}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A54B4206-EBC5-4FC2-8191-EFDC8C12D825}.Release|x86.ActiveCfg = Release|Any CPU
 		{A54B4206-EBC5-4FC2-8191-EFDC8C12D825}.Release|x86.Build.0 = Release|Any CPU
+		{B8279432-3EB0-4422-AFB1-0D8A15B31843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8279432-3EB0-4422-AFB1-0D8A15B31843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8279432-3EB0-4422-AFB1-0D8A15B31843}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B8279432-3EB0-4422-AFB1-0D8A15B31843}.Debug|x86.Build.0 = Debug|Any CPU
+		{B8279432-3EB0-4422-AFB1-0D8A15B31843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8279432-3EB0-4422-AFB1-0D8A15B31843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8279432-3EB0-4422-AFB1-0D8A15B31843}.Release|x86.ActiveCfg = Release|Any CPU
+		{B8279432-3EB0-4422-AFB1-0D8A15B31843}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
