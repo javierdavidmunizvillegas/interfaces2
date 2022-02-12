@@ -1,4 +1,0 @@
-2021-10-14 T 17:24:59 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"SIT","SessionId":"{00000000-0000-0000-0000-000000000000}","APDationRequests":{"CustAccount":"1841024","DationNumber":"Dac-000000022","InvoiceDateFrom":"2021-10-13T00:00:00","InvoiceDateTo":"2021-10-15T00:00:00","InvoiceId":"001-020-000000182","RecallDocument":"999999"}}
-2021-10-14 T 17:25:00 || WS HOMOLOGACION : Número de  intentos realizados : 0, Tiempo Transcurrido : 814 ms.
-2021-10-14 T 17:25:00 || Convierte Código CrecosAdynamics: Código a Crecos C001841024
-2021-10-14 T 17:25:00 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"SIT","SessionId":"fcf424e6-f1b2-4712-acbf-897e9e28b02b","APDationRequests":{"CustAccount":"C001841024","DationNumber":"Dac-000000022","InvoiceDateFrom":"2021-10-13T00:00:00","InvoiceDateTo":"2021-10-15T00:00:00","InvoiceId":"001-020-000000182","RecallDocument":"999999"}}

@@ -1,5 +1,0 @@
-2021-06-28 T 16:21:50 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"TEST","SessionId":null,"ItemId":"0045","BusinessUnit":"Prueba","StatusReceipt":2}
-2021-06-28 T 16:21:52 || SERVICIO RESPONSE : Número de  intentos realizados : 3, Tiempo Transcurrido : 1284 ms.
-2021-06-28 T 16:21:52 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"TEST","SessionId":"fb840002-4b37-4647-a550-2d911b7af868","ItemId":"0045","BusinessUnit":"Prueba","StatusReceipt":2}
-2021-06-28 T 16:21:58 || SERVICIO RESPONSE : Número de  intentos realizados : 1, Tiempo Transcurrido : 508 ms.
-2021-06-28 T 16:21:58 || CONTROLADOR: Response desde Dynamics: {"SessionId":"fb840002-4b37-4647-a550-2d911b7af868","StatusId":true,"TimeStartEnd":null,"ErrorList":null,"APInventTableList":[]}
