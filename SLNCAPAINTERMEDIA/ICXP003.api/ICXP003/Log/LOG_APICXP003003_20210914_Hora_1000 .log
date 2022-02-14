@@ -1,0 +1,6 @@
+2021-09-14 T 10:00:01 || WS FUNCION: Número de  intentos realizados : 0, Tiempo Transcurrido : 12541 ms.
+2021-09-14 T 10:00:01 || RESULTADO RECIBIDO WS: {"error":"Cod. NetZen:1500 - Fact: 001-001-12344556 :: Mensaje.-El codigo del agente no existe.\nCod. NetZen:1500 - Fact: 001-001-12344578 :: Mensaje.-El codigo del agente no existe.\n","mensaje":"OK"}
+2021-09-14 T 10:00:05 || Procesando Función
+2021-09-14 T 10:00:05 || REQUEST RECIBIDO: {"DataAreaId":"000001","Enviroment":"SIT","SessionId":"c4eca983-6064-414d-9226-b18657beb447","appaymentvendorcontractlist":[{"period":"2022","apcodeindependentvend":"1500","ruc":"0920154648001","invoicenumber":"001-001-12344556","paymmode":"EFE","fixedvalue":"P","paymentdate":"24/08/2021"},{"period":"2022","apcodeindependentvend":"1500","ruc":"0920154648001","invoicenumber":"001-001-12344578","paymmode":"EFE","fixedvalue":"P","paymentdate":"24/08/2021"}]}
+2021-09-14 T 10:00:08 || WS FUNCION: Número de  intentos realizados : 0, Tiempo Transcurrido : 2246 ms.
+2021-09-14 T 10:00:08 || RESULTADO RECIBIDO WS: {"error":"Cod. NetZen:1500 - Fact: 001-001-12344556 :: Mensaje.-El codigo del agente no existe.\nCod. NetZen:1500 - Fact: 001-001-12344578 :: Mensaje.-El codigo del agente no existe.\n","mensaje":"OK"}

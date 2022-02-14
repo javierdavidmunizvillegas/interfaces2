@@ -1,0 +1,2 @@
+2021-09-14 T 09:59:46 || Procesando Función
+2021-09-14 T 09:59:46 || REQUEST RECIBIDO: {"DataAreaId":"000001","Enviroment":"SIT","SessionId":"0e2ad017-8d31-49aa-903e-97aa61273f6a","appaymentvendorcontractlist":[{"period":"2022","apcodeindependentvend":"1500","ruc":"0920154648001","invoicenumber":"001-001-12344556","paymmode":"EFE","fixedvalue":"P","paymentdate":"24/08/2021"},{"period":"2022","apcodeindependentvend":"1500","ruc":"0920154648001","invoicenumber":"001-001-12344578","paymmode":"EFE","fixedvalue":"P","paymentdate":"24/08/2021"}]}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ISAC020.api", "ISAC020.api\ISAC020.api.csproj", "{88850A37-522C-417E-A51F-E0138BFD7D49}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ISAC020", "ISAC020\ISAC020.csproj", "{3C182883-E124-4AB7-8A1B-48D00123B1D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88850A37-522C-417E-A51F-E0138BFD7D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88850A37-522C-417E-A51F-E0138BFD7D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88850A37-522C-417E-A51F-E0138BFD7D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88850A37-522C-417E-A51F-E0138BFD7D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C182883-E124-4AB7-8A1B-48D00123B1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C182883-E124-4AB7-8A1B-48D00123B1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C182883-E124-4AB7-8A1B-48D00123B1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C182883-E124-4AB7-8A1B-48D00123B1D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11EB4705-8014-4AAE-A32B-BA1D1B5A19C8}
+	EndGlobalSection
+EndGlobal

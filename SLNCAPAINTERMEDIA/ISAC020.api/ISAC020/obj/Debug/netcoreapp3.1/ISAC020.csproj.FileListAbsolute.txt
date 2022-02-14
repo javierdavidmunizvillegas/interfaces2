@@ -1,0 +1,421 @@
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\host.json
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\local.settings.json
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\ISAC020.deps.json
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\ISAC020.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\ISAC020.pdb
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Azure.Core.Amqp.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Azure.Messaging.ServiceBus.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNet.SignalR.ServiceBus.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.Http.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.ServiceBus.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Host.Storage.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\NCrontab.Signed.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.AssemblyInfoInputs.cache
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.AssemblyInfo.cs
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.csproj.CoreCompileInputs.cache
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.csproj.CopyComplete
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.pdb
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.csprojAssemblyReference.cache
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\host.json
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\local.settings.json
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\ISAC020.deps.json
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\ISAC020.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\ISAC020.pdb
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Azure.Core.Amqp.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Azure.Messaging.ServiceBus.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNet.SignalR.ServiceBus.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.Http.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.ServiceBus.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Host.Storage.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\NCrontab.Signed.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.AssemblyInfoInputs.cache
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.AssemblyInfo.cs
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.csproj.CoreCompileInputs.cache
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.csproj.CopyComplete
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.pdb
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.csprojAssemblyReference.cache
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\host.json
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\local.settings.json
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\ISAC020.deps.json
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\ISAC020.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\ISAC020.pdb
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Azure.Core.Amqp.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Azure.Messaging.ServiceBus.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNet.SignalR.ServiceBus.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.Http.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.ServiceBus.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Host.Storage.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\NCrontab.Signed.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.AssemblyInfoInputs.cache
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.AssemblyInfo.cs
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.csproj.CoreCompileInputs.cache
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.csproj.CopyComplete
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.pdb
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\CAMBIOS_ID_SESION_LOG\REVISADOS\PROBADOS AL 100%\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.csprojAssemblyReference.cache
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\host.json
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\local.settings.json
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\ISAC020.deps.json
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\ISAC020.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\ISAC020.pdb
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Azure.Core.Amqp.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Azure.Messaging.ServiceBus.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNet.SignalR.ServiceBus.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.Http.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.ServiceBus.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Host.Storage.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\NCrontab.Signed.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.AssemblyInfoInputs.cache
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.AssemblyInfo.cs
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.csproj.CoreCompileInputs.cache
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.pdb
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\FluentAssertions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.Functions.Extensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Azure.Data.AppConfiguration.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.AzureAppConfiguration.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.csproj.AssemblyReference.cache
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\host.json
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\local.settings.json
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\ISAC020.deps.json
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\ISAC020.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\ISAC020.pdb
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Azure.Core.Amqp.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Azure.Data.AppConfiguration.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Azure.Messaging.ServiceBus.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\FluentAssertions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNet.SignalR.ServiceBus.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.Functions.Extensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.Http.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.ServiceBus.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Host.Storage.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.AzureAppConfiguration.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\NCrontab.Signed.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.csproj.AssemblyReference.cache
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.AssemblyInfoInputs.cache
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.AssemblyInfo.cs
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.csproj.CoreCompileInputs.cache
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.csproj.CopyComplete
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.dll
+C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ISAC020.api\ISAC020\obj\Debug\netcoreapp3.1\ISAC020.pdb

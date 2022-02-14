@@ -1,0 +1,16 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions-3.0.11",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "serviceBusTrigger",
+      "connection": "ConectionStringRequest001",
+      "queueName": "%QueueRequest001%",
+      "isSessionsEnabled": false,
+      "name": "myQueueItem"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/ISAC020.dll",
+  "entryPoint": "ISAC020.APISAC020002.Run"
+}
