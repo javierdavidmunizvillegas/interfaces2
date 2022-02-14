@@ -1,0 +1,37 @@
+2021-09-21 T 21:02:27 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"TEST","APGroupId":null,"APStoreId":null,"BusinnesUnit":null,"CustAccount":null,"InvoiceId":"001-020-000000029","ItemId":null,"DateStart":"0001-01-01T00:00:00","DateEnd":"0001-01-01T00:00:00","SessionId":null}
+2021-09-21 T 21:02:31 || WS HOMOLOGACION : Número de  intentos realizados : 0, Tiempo Transcurrido : 3842 ms.
+2021-09-21 T 21:04:13 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"TEST","APGroupId":null,"APStoreId":null,"BusinnesUnit":null,"CustAccount":null,"InvoiceId":"001-020-000000029","ItemId":null,"DateStart":"0001-01-01T00:00:00","DateEnd":"0001-01-01T00:00:00","SessionId":null}
+2021-09-21 T 21:04:13 || WS HOMOLOGACION : Número de  intentos realizados : 0, Tiempo Transcurrido : 473 ms.
+2021-09-21 T 21:04:21 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"SIT","APGroupId":null,"APStoreId":null,"BusinnesUnit":null,"CustAccount":null,"InvoiceId":"001-020-000000029","ItemId":null,"DateStart":"0001-01-01T00:00:00","DateEnd":"0001-01-01T00:00:00","SessionId":"73c7bd4f-e270-47c7-a528-a10155136f9a"}
+2021-09-21 T 21:05:02 || CONTROLADOR: ERROR: Azure.Messaging.ServiceBus.ServiceBusException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión. ErrorCode: ConnectionRefused (ServiceCommunicationProblem)
+ ---> System.Net.Sockets.SocketException (10061): No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+   at Azure.Messaging.ServiceBus.Amqp.AmqpConnectionScope.CreateAndOpenConnectionAsync(Version amqpVersion, Uri serviceEndpoint, ServiceBusTransportType transportType, IWebProxy proxy, String scopeIdentifier, TimeSpan timeout)
+   at Microsoft.Azure.Amqp.FaultTolerantAmqpObject`1.OnCreateAsync(TimeSpan timeout)
+   at Microsoft.Azure.Amqp.Singleton`1.GetOrCreateAsync(TimeSpan timeout)
+   at Microsoft.Azure.Amqp.Singleton`1.GetOrCreateAsync(TimeSpan timeout)
+   at Azure.Messaging.ServiceBus.Amqp.AmqpConnectionScope.OpenSenderLinkAsync(String entityPath, String identifier, TimeSpan timeout, CancellationToken cancellationToken)
+   at Azure.Messaging.ServiceBus.Amqp.AmqpSender.CreateLinkAndEnsureSenderStateAsync(TimeSpan timeout, CancellationToken cancellationToken)
+   at Microsoft.Azure.Amqp.FaultTolerantAmqpObject`1.OnCreateAsync(TimeSpan timeout)
+   at Microsoft.Azure.Amqp.Singleton`1.GetOrCreateAsync(TimeSpan timeout)
+   at Microsoft.Azure.Amqp.Singleton`1.GetOrCreateAsync(TimeSpan timeout)
+   at Azure.Messaging.ServiceBus.Amqp.AmqpSender.SendBatchInternalAsync(IEnumerable`1 messages, TimeSpan timeout, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Azure.Messaging.ServiceBus.Amqp.AmqpSender.SendBatchInternalAsync(IEnumerable`1 messages, TimeSpan timeout, CancellationToken cancellationToken)
+   at Azure.Messaging.ServiceBus.Amqp.AmqpSender.<>c.<<SendAsync>b__20_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Azure.Messaging.ServiceBus.ServiceBusRetryPolicy.<>c__20`1.<<RunOperation>b__20_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Azure.Messaging.ServiceBus.ServiceBusRetryPolicy.RunOperation[T1,TResult](Func`4 operation, T1 t1, TransportConnectionScope scope, CancellationToken cancellationToken)
+   at Azure.Messaging.ServiceBus.ServiceBusRetryPolicy.RunOperation[T1,TResult](Func`4 operation, T1 t1, TransportConnectionScope scope, CancellationToken cancellationToken)
+   at Azure.Messaging.ServiceBus.ServiceBusRetryPolicy.RunOperation[T1](Func`4 operation, T1 t1, TransportConnectionScope scope, CancellationToken cancellationToken)
+   at Azure.Messaging.ServiceBus.Amqp.AmqpSender.SendAsync(IReadOnlyList`1 messages, CancellationToken cancellationToken)
+   at Azure.Messaging.ServiceBus.ServiceBusSender.SendMessagesAsync(IEnumerable`1 messages, CancellationToken cancellationToken)
+   at Azure.Messaging.ServiceBus.ServiceBusSender.SendMessageAsync(ServiceBusMessage message, CancellationToken cancellationToken)
+   at ICRE008.api.Infraestructure.Services.ManejadorRequest`1.EnviarMensajeAsync(String sesionId, String cadenaConexion, String nombreQueueRequest, T body) in C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\INTERFACES ENRIQUE\REVISADAS\ICRE008.api\ICRE008.api\Infraestructure\Services\ManejadorRequest.cs:line 31
+   at ICRE008.api.Infraestructure.Services.ManejadorRequest`1.EnviarMensajeAsync(String sesionId, String cadenaConexion, String nombreQueueRequest, T body) in C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\INTERFACES ENRIQUE\REVISADAS\ICRE008.api\ICRE008.api\Infraestructure\Services\ManejadorRequest.cs:line 35
+   at ICRE008.api.Controllers.ICRE009001Controller.APICRE009001(APICRE009001MessageRequest parametrorequest) in C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\INTERFACES ENRIQUE\REVISADAS\ICRE008.api\ICRE008.api\Controllers\ICRE009001Controller.cs:line 118
+2021-09-21 T 21:05:20 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"TEST","APGroupId":null,"APStoreId":null,"BusinnesUnit":null,"CustAccount":null,"InvoiceId":"001-020-000000029","ItemId":null,"DateStart":"0001-01-01T00:00:00","DateEnd":"0001-01-01T00:00:00","SessionId":null}
+2021-09-21 T 21:05:20 || WS HOMOLOGACION : Número de  intentos realizados : 0, Tiempo Transcurrido : 146 ms.
+2021-09-21 T 21:05:23 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"SIT","APGroupId":null,"APStoreId":null,"BusinnesUnit":null,"CustAccount":null,"InvoiceId":"001-020-000000029","ItemId":null,"DateStart":"0001-01-01T00:00:00","DateEnd":"0001-01-01T00:00:00","SessionId":"94fe76a4-56de-4f61-a534-884e7e506ffa"}
+2021-09-21 T 21:05:47 || SERVICIO RESPONSE : Número de  intentos realizados : 0, Tiempo Transcurrido : 4326 ms.
+2021-09-21 T 21:05:47 || CONTROLADOR: Response desde Dynamics: {"SessionId":"94fe76a4-56de-4f61-a534-884e7e506ffa","apicrE009001InvoiceOrderList":null,"StatusId":true,"ErrorList":["Si no cuenta con un código de cliente, debe proporcionar un rango de fechas válido","Si no cuenta con un código de cliente, debe proporcionar un rango de fechas válido"]}

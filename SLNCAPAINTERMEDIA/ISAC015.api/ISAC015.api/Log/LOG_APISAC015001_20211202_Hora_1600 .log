@@ -1,0 +1,6 @@
+2021-12-02 T 16:40:12 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"DEV015","SessionId":"{00000000-0000-0000-0000-000000000000}","DeliveryProductQuery":{"CustAccount":"0522","Invoice":"","ItemId":"","DeliveryType":""}}
+2021-12-02 T 16:40:13 || WS HOMOLOGACIÓN : Número de  intentos realizados : 0, Tiempo Transcurrido : 671 ms.
+2021-12-02 T 16:40:13 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"SIT","SessionId":"f588d573-c2f4-409b-a818-d2e49350a812","DeliveryProductQuery":{"CustAccount":"0522","Invoice":"","ItemId":"","DeliveryType":""}}
+2021-12-02 T 16:41:16 || SERVICIO RESPONSE : Número de  intentos realizados : 1, Tiempo Transcurrido : 12338 ms.
+2021-12-02 T 16:41:16 || CONTROLADOR: Response desde Dynamics: {"SessionId":"f588d573-c2f4-409b-a818-d2e49350a812","StatusId":false,"ErrorList":["Not Found-"],"DeliveryProduct":null,"TimeStartEnd":null}
+2021-12-02 T 16:58:59 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"DEV015","SessionId":"{00000000-0000-0000-0000-000000000000}","DeliveryProductQuery":{"CustAccount":"0522","Invoice":"","ItemId":"","DeliveryType":""}}

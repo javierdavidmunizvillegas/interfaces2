@@ -1,0 +1,17 @@
+2021-09-28 T 18:04:04 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"SIT","SessionId":null,"APIndependetEntrep":[{"APCodeIndependentVend":"95630","DateStartRelation":"2021-09-20T10:56:55.1510022-05:00","DateEndRelation":"0001-01-01T00:00:00","APRelationStatus":0,"AccountNum":"2073427","VATNum":"0921487328","DateEntryReq":"2021-09-20T10:10:01"}]}
+2021-09-28 T 18:04:05 || SERVICIO RESPONSE HOMOLOGACION : Número de  intentos realizados : 0, Tiempo Transcurrido : 566 ms.
+2021-09-28 T 18:04:25 || Convierte Código CrecosAdynamics: Código a Crecos C002073427
+2021-09-28 T 18:04:26 || System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at ICRE002.api.Controllers.ICRE002003Controller.APICRE002003(APICRE002003MessageRequest parametrorequest) in C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PRUEBA CONECTIVIDAD OK\ICRE002.api\ICRE002.api\Controllers\ICRE002003Controller.cs:line 106
+2021-09-28 T 18:05:51 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"SIT","SessionId":null,"APIndependetEntrep":[{"APCodeIndependentVend":"95630","DateStartRelation":"2021-09-20T10:56:55.1510022-05:00","DateEndRelation":"0001-01-01T00:00:00","APRelationStatus":0,"AccountNum":"2073427","VATNum":"0921487328","DateEntryReq":"2021-09-20T10:10:01"}]}
+2021-09-28 T 18:05:51 || SERVICIO RESPONSE HOMOLOGACION : Número de  intentos realizados : 0, Tiempo Transcurrido : 32 ms.
+2021-09-28 T 18:06:08 || Convierte Código CrecosAdynamics: Código a Crecos C002073427
+2021-09-28 T 18:16:03 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"SIT","SessionId":"","APIndependetEntrep":[{"APCodeIndependentVend":"95630","DateStartRelation":"2021-09-20T10:56:55.1510022-05:00","DateEndRelation":"0001-01-01T00:00:00","APRelationStatus":0,"AccountNum":"2073427","VATNum":"0921487328","DateEntryReq":"2021-09-20T10:10:01"}]}
+2021-09-28 T 18:16:04 || SERVICIO RESPONSE HOMOLOGACION : Número de  intentos realizados : 0, Tiempo Transcurrido : 427 ms.
+2021-09-28 T 18:16:12 || Convierte Código CrecosAdynamics: Código a Crecos C002073427
+2021-09-28 T 18:16:12 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"SIT","SessionId":"1159ec1c-52f4-4349-a711-412b0b23966e","APIndependetEntrep":[{"APCodeIndependentVend":"95630","DateStartRelation":"2021-09-20T10:56:55.1510022-05:00","DateEndRelation":"0001-01-01T00:00:00","APRelationStatus":0,"AccountNum":"C002073427","VATNum":"0921487328","DateEntryReq":"2021-09-20T10:10:01"}]}
+2021-09-28 T 18:16:35 || SERVICIO RESPONSE : Número de  intentos realizados : 0, Tiempo Transcurrido : 410 ms.
+2021-09-28 T 18:16:35 || CONTROLADOR: Response desde Dynamics: {"SessionId":"1159ec1c-52f4-4349-a711-412b0b23966e","StatusId":true,"TimeStartEnd":null,"ErrorList":[]}
