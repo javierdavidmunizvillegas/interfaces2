@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PUQ9pJddBhKzP3JGsupc1LSC4YPT6xH7DEqZiecevpQx/4SwGYZNez29dRjkpt2NL7AqYGxpr0HYtuz3IubYPg==",
+  "dgSpecHash": "TQc5Za15cBRCydycEfxcw0GI9lQjqYr4icpc/Mq9lHQVz0Z1zUPPvU1mgdc0aUScXIxdcIXmp1I+n3pgYH1SRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\henry\\Desktop\\ICRE001.api\\ICRE001.api\\ICRE001.api.csproj",
+  "projectFilePath": "C:\\Users\\henry\\source\\repos\\Interfaces Capa Integracion\\SLNCAPAINTERMEDIA\\ICRE001.api\\ICRE001.api\\ICRE001.api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\henry\\.nuget\\packages\\azure.core\\1.22.0\\azure.core.1.22.0.nupkg.sha512",
     "C:\\Users\\henry\\.nuget\\packages\\azure.core.amqp\\1.2.0\\azure.core.amqp.1.2.0.nupkg.sha512",

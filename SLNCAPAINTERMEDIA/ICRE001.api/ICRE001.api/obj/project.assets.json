@@ -6231,11 +6231,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\henry\\Desktop\\ICRE001.api\\ICRE001.api\\ICRE001.api.csproj",
+      "projectUniqueName": "C:\\Users\\henry\\source\\repos\\Interfaces Capa Integracion\\SLNCAPAINTERMEDIA\\ICRE001.api\\ICRE001.api\\ICRE001.api.csproj",
       "projectName": "ICRE001.api",
-      "projectPath": "C:\\Users\\henry\\Desktop\\ICRE001.api\\ICRE001.api\\ICRE001.api.csproj",
+      "projectPath": "C:\\Users\\henry\\source\\repos\\Interfaces Capa Integracion\\SLNCAPAINTERMEDIA\\ICRE001.api\\ICRE001.api\\ICRE001.api.csproj",
       "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\henry\\Desktop\\ICRE001.api\\ICRE001.api\\obj\\",
+      "outputPath": "C:\\Users\\henry\\source\\repos\\Interfaces Capa Integracion\\SLNCAPAINTERMEDIA\\ICRE001.api\\ICRE001.api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
