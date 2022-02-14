@@ -1,0 +1,7 @@
+2021-09-30 T 16:18:16 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"SIT","SessionId":null,"RequestType":1,"EffectiveDate":"2021-09-29T16:02:38.253Z","CustAccount":"0920578762","Quantity":1,"ItemId":"SONYA-30","ManualPrice":0.0,"AttString":"","Registrationid":""}
+2021-09-30 T 16:18:16 || WS HOMOLOGACIÓN : Número de  intentos realizados : 0, Tiempo Transcurrido : 100 ms.
+2021-09-30 T 16:18:16 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"SIT","SessionId":"94f5412d-08d0-4efa-b8b3-40ee2d98424e","RequestType":1,"EffectiveDate":"2021-09-29T16:02:38.253Z","CustAccount":"0920578762","Quantity":1,"ItemId":"SONYA-30","ManualPrice":0.0,"AttString":"","Registrationid":""}
+2021-09-30 T 16:39:21 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"SIT","SessionId":null,"RequestType":1,"EffectiveDate":"2021-09-29T16:02:38.253Z","CustAccount":"0920578762","Quantity":1,"ItemId":"SONYA-30","ManualPrice":0.0,"AttString":"","Registrationid":""}
+2021-09-30 T 16:39:44 || WS HOMOLOGACIÓN : Número de  intentos realizados : 1, Tiempo Transcurrido : 22732 ms.
+2021-09-30 T 16:39:44 || CONTROLADOR WS HOMOLOGACION: No se retorno resultado de Homologación
+2021-09-30 T 16:39:44 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"000001","Enviroment":"SIT","SessionId":"cf673738-1e2c-42d4-9dbb-5349e29b76b7","RequestType":1,"EffectiveDate":"2021-09-29T16:02:38.253Z","CustAccount":"0920578762","Quantity":1,"ItemId":"SONYA-30","ManualPrice":0.0,"AttString":"","Registrationid":""}

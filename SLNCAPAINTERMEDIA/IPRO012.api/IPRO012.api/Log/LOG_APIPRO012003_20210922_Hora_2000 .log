@@ -1,0 +1,42 @@
+2021-09-22 T 20:51:25 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"SIT","SessionId":null,"ItemIdList":["003500"],"BusinessUnit":[""]}
+2021-09-22 T 20:51:47 || WS HOMOLOGACION : Número de  intentos realizados : 1, Tiempo Transcurrido : 22525 ms.
+2021-09-22 T 20:51:47 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"SIT","SessionId":"5ebae1a9-ee32-4bf5-929a-e89433aed6d9","ItemIdList":["003500"],"BusinessUnit":[""]}
+2021-09-22 T 20:52:23 || SERVICIO RESPONSE : Número de  intentos realizados : 1, Tiempo Transcurrido : 463 ms.
+2021-09-22 T 20:52:23 || CONTROLADOR: Response desde Dynamics: {"SessionId":"5ebae1a9-ee32-4bf5-929a-e89433aed6d9","StatusId":false,"TimeStartEnd":null,"ErrorList":null,"APInventTableBusinessUnitList":[{"ItemId":"003500","BusinessUnit":null},{"ItemId":"003500","BusinessUnit":null}]}
+2021-09-22 T 20:53:35 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"SIT","SessionId":null,"ItemIdList":["003500"],"BusinessUnit":[""]}
+2021-09-22 T 20:53:58 || WS HOMOLOGACION : Número de  intentos realizados : 1, Tiempo Transcurrido : 22987 ms.
+2021-09-22 T 20:53:58 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"SIT","SessionId":"447c6609-710e-42de-a5d9-e9778cc1ca39","ItemIdList":["003500"],"BusinessUnit":[""]}
+2021-09-22 T 20:54:10 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"SIT","SessionId":null,"ItemIdList":["003500"],"BusinessUnit":[""]}
+2021-09-22 T 20:54:10 || WS HOMOLOGACION : Número de  intentos realizados : 0, Tiempo Transcurrido : 53 ms.
+2021-09-22 T 20:54:10 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"SIT","SessionId":"729d13bf-6325-4311-ab00-736ea23503c1","ItemIdList":["003500"],"BusinessUnit":[""]}
+2021-09-22 T 20:54:29 || CONTROLADOR: ERROR: Azure.Messaging.ServiceBus.ServiceBusException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión. ErrorCode: ConnectionRefused (ServiceCommunicationProblem)
+ ---> System.Net.Sockets.SocketException (10061): No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+   at Azure.Messaging.ServiceBus.Amqp.AmqpConnectionScope.CreateAndOpenConnectionAsync(Version amqpVersion, Uri serviceEndpoint, ServiceBusTransportType transportType, IWebProxy proxy, String scopeIdentifier, TimeSpan timeout)
+   at Microsoft.Azure.Amqp.FaultTolerantAmqpObject`1.OnCreateAsync(TimeSpan timeout)
+   at Microsoft.Azure.Amqp.Singleton`1.GetOrCreateAsync(TimeSpan timeout)
+   at Microsoft.Azure.Amqp.Singleton`1.GetOrCreateAsync(TimeSpan timeout)
+   at Azure.Messaging.ServiceBus.Amqp.AmqpConnectionScope.OpenSenderLinkAsync(String entityPath, String identifier, TimeSpan timeout, CancellationToken cancellationToken)
+   at Azure.Messaging.ServiceBus.Amqp.AmqpSender.CreateLinkAndEnsureSenderStateAsync(TimeSpan timeout, CancellationToken cancellationToken)
+   at Microsoft.Azure.Amqp.FaultTolerantAmqpObject`1.OnCreateAsync(TimeSpan timeout)
+   at Microsoft.Azure.Amqp.Singleton`1.GetOrCreateAsync(TimeSpan timeout)
+   at Microsoft.Azure.Amqp.Singleton`1.GetOrCreateAsync(TimeSpan timeout)
+   at Azure.Messaging.ServiceBus.Amqp.AmqpSender.SendBatchInternalAsync(Func`1 messageFactory, TimeSpan timeout, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Azure.Messaging.ServiceBus.Amqp.AmqpSender.SendBatchInternalAsync(Func`1 messageFactory, TimeSpan timeout, CancellationToken cancellationToken)
+   at Azure.Messaging.ServiceBus.Amqp.AmqpSender.<>c__DisplayClass20_0.<<SendAsync>b__1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Azure.Messaging.ServiceBus.ServiceBusRetryPolicy.RunOperation(Func`2 operation, TransportConnectionScope scope, CancellationToken cancellationToken)
+   at Azure.Messaging.ServiceBus.ServiceBusRetryPolicy.RunOperation(Func`2 operation, TransportConnectionScope scope, CancellationToken cancellationToken)
+   at Azure.Messaging.ServiceBus.Amqp.AmqpSender.SendAsync(IReadOnlyList`1 messages, CancellationToken cancellationToken)
+   at Azure.Messaging.ServiceBus.ServiceBusSender.SendMessagesAsync(IEnumerable`1 messages, CancellationToken cancellationToken)
+   at Azure.Messaging.ServiceBus.ServiceBusSender.SendMessageAsync(ServiceBusMessage message, CancellationToken cancellationToken)
+   at IPRO012.api.Infraestructure.Services.ManejadorRequest`1.EnviarMensajeAsync(String sesionId, String cadenaConexion, String nombreQueueRequest, T body) in C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PENDIENTES X DOCUMENTO ACT\IPRO012.api\IPRO012.api\Infraestructure\Services\ManejadorRequest.cs:line 29
+   at IPRO012.api.Infraestructure.Services.ManejadorRequest`1.EnviarMensajeAsync(String sesionId, String cadenaConexion, String nombreQueueRequest, T body) in C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PENDIENTES X DOCUMENTO ACT\IPRO012.api\IPRO012.api\Infraestructure\Services\ManejadorRequest.cs:line 33
+   at IPRO012.api.Controllers.IPRO012003Controller.APIPRO012003(APIPRO012003MessageRequest parametrorequest) in C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\PENDIENTES X DOCUMENTO ACT\IPRO012.api\IPRO012.api\Controllers\IPRO012003Controller.cs:line 100
+2021-09-22 T 20:54:35 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"SIT","SessionId":null,"ItemIdList":["003500"],"BusinessUnit":[""]}
+2021-09-22 T 20:54:36 || WS HOMOLOGACION : Número de  intentos realizados : 0, Tiempo Transcurrido : 358 ms.
+2021-09-22 T 20:54:36 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"SIT","SessionId":"9c647978-af23-4738-9f17-f234a95b71dd","ItemIdList":["003500"],"BusinessUnit":[""]}
+2021-09-22 T 20:54:51 || SERVICIO RESPONSE : Número de  intentos realizados : 1, Tiempo Transcurrido : 429 ms.
+2021-09-22 T 20:54:51 || CONTROLADOR: Response desde Dynamics: {"SessionId":"9c647978-af23-4738-9f17-f234a95b71dd","StatusId":false,"TimeStartEnd":null,"ErrorList":null,"APInventTableBusinessUnitList":[{"ItemId":"003500","Business":"CRE/B"},{"ItemId":"003500","Business":"DIS/B"}]}
+2021-09-22 T 20:54:52 || SERVICIO RESPONSE : Número de  intentos realizados : 1, Tiempo Transcurrido : 366 ms.
+2021-09-22 T 20:54:52 || CONTROLADOR: Response desde Dynamics: {"SessionId":"729d13bf-6325-4311-ab00-736ea23503c1","StatusId":false,"TimeStartEnd":null,"ErrorList":null,"APInventTableBusinessUnitList":[{"ItemId":"003500","Business":"CRE/B"},{"ItemId":"003500","Business":"DIS/B"}]}
