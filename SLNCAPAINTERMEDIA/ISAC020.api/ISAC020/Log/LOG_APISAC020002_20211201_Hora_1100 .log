@@ -1,2 +1,0 @@
-2021-12-01 T 11:25:54 || Procesando Función
-2021-12-01 T 11:26:06 || REQUEST RECIBIDO: {"DataAreaId":"0001","Enviroment":"SIT","SessionId":"48351022-748d-48bc-864e-93897a8a27f4","APInventTransfer":{"TransferId":"TR-0000344","Status":2,"APInventTransferLineList":[{"ItemId":"122110","Qty":3.0,"InventLocationIdFrom":"ALMACEN REPUESTOS LA GARANTIA GYE","InventLocationIdTo":"BODEGA VIRTUAL NACIONAL","WMSLocationIdFrom":"RPGYE","WMSLocationIdTo":"LGBRP"}]}}

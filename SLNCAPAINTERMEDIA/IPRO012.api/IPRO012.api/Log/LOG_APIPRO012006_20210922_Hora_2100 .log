@@ -1,4 +1,0 @@
-2021-09-22 T 21:04:46 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"SIT","SessionId":null}
-2021-09-22 T 21:04:48 || WS HOMOLOGACION : Número de  intentos realizados : 0, Tiempo Transcurrido : 2413 ms.
-2021-09-22 T 21:04:48 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"SIT","SessionId":"c7d35dfd-5be9-482c-80c1-af1f85d7e36c"}
-2021-09-22 T 21:05:16 || SERVICIO RESPONSE : Número de  intentos realizados : 1, Tiempo Transcurrido : 347 ms.

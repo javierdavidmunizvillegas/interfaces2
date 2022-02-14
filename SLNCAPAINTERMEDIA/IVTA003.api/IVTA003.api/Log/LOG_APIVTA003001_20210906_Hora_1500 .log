@@ -1,5 +1,0 @@
-2021-09-06 T 15:14:38 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"TEST","SessionId":null,"VATNum":"0904698206"}
-2021-09-06 T 15:14:41 || WS HOMOLOGACION : Número de  intentos realizados : 0, Tiempo Transcurrido : 3107 ms.
-2021-09-06 T 15:14:41 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"SIT","SessionId":"6f1d5929-089d-475e-bd3f-8fe4e9ea39b7","VATNum":"0904698206"}
-2021-09-06 T 15:15:20 || SERVICIO RESPONSE : Número de  intentos realizados : 0, Tiempo Transcurrido : 18863 ms.
-2021-09-06 T 15:15:20 || CONTROLADOR: Response desde Dynamics: {"SessionId":"6f1d5929-089d-475e-bd3f-8fe4e9ea39b7","APCustTableList":[{"APCustType":"1","VATNum":"0904698206","Name":"MARIA FILOMENA PEÑAFIEL","Date":"1900-01-01T12:00:00","MobileNumber":"","PhoneNumber":"042843975","Email":"","State":"09","City":"01","Address":"FRANCISCO SEGURA 6505 Y LA 23 AVA "}],"StatusId":true,"TimeStartEnd":null,"ErrorList":[]}

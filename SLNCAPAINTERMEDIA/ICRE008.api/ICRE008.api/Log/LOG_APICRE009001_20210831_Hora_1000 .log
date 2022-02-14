@@ -1,5 +1,0 @@
-2021-08-31 T 10:57:28 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"TEST","APGroupId":"","APStoreId":"","BusinnesUnit":null,"CustAccount":"1168551","InvoiceId":"001-020-000000029","ItemId":"","DateStart":"2021-08-30T18:11:00","DateEnd":"2021-08-31T18:11:00","SessionId":null}
-2021-08-31 T 10:57:29 || WS HOMOLOGACION : Número de  intentos realizados : 0, Tiempo Transcurrido : 942 ms.
-2021-08-31 T 10:57:29 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"TEST","APGroupId":"","APStoreId":"","BusinnesUnit":null,"CustAccount":"C001168551","InvoiceId":"001-020-000000029","ItemId":"","DateStart":"2021-08-30T18:11:00","DateEnd":"2021-08-31T18:11:00","SessionId":"1ff16489-88e2-48bd-870d-799787bce0d2"}
-2021-08-31 T 10:58:00 || SERVICIO RESPONSE : Número de  intentos realizados : 0, Tiempo Transcurrido : 16904 ms.
-2021-08-31 T 10:58:00 || CONTROLADOR: Response desde Dynamics: {"SessionId":"1ff16489-88e2-48bd-870d-799787bce0d2","apicrE009001InvoiceOrderList":[],"StatusId":true,"ErrorList":[]}
