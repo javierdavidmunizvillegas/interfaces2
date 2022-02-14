@@ -151,6 +151,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DCAJ003_002", "DCAJ003\DCAJ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICRE001.api", "ICRE001.api\ICRE001.api\ICRE001.api.csproj", "{BD5D5EA9-910B-49B1-81C1-257CA5C5EBCC}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICAJ015.api", "ICAJ015.api\ICAJ015.api\ICAJ015.api.csproj", "{67147BC7-FE0D-4358-A35B-49BC3904E28F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -751,6 +753,14 @@ Global
 		{BD5D5EA9-910B-49B1-81C1-257CA5C5EBCC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BD5D5EA9-910B-49B1-81C1-257CA5C5EBCC}.Release|x86.ActiveCfg = Release|Any CPU
 		{BD5D5EA9-910B-49B1-81C1-257CA5C5EBCC}.Release|x86.Build.0 = Release|Any CPU
+		{67147BC7-FE0D-4358-A35B-49BC3904E28F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67147BC7-FE0D-4358-A35B-49BC3904E28F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67147BC7-FE0D-4358-A35B-49BC3904E28F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{67147BC7-FE0D-4358-A35B-49BC3904E28F}.Debug|x86.Build.0 = Debug|Any CPU
+		{67147BC7-FE0D-4358-A35B-49BC3904E28F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67147BC7-FE0D-4358-A35B-49BC3904E28F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67147BC7-FE0D-4358-A35B-49BC3904E28F}.Release|x86.ActiveCfg = Release|Any CPU
+		{67147BC7-FE0D-4358-A35B-49BC3904E28F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
