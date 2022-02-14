@@ -1,0 +1,10 @@
+2021-09-13 T 14:39:12 || Procesando Función
+2021-09-13 T 14:40:12 || REQUEST RECIBIDO: {"DataAreaId":null,"Enviroment":"SIT","SessionId":"725c5b4a-99b9-4ff8-ad4a-6e02836fae5f","appaymentvendorcontractlist":[{"period":"2022","apcodeindependentvend":"1500","ruc":"0920154648001","invoicenumber":"001-001-12344556","paymmode":"EFE","fixedvalue":"P","paymentdate":"24/08/2021"},{"period":"2022","apcodeindependentvend":"1500","ruc":"0920154648001","invoicenumber":"001-001-12344578","paymmode":"EFE","fixedvalue":"P","paymentdate":"24/08/2021"}]}
+2021-09-13 T 14:40:21 || Procesando Función
+2021-09-13 T 14:40:22 || REQUEST RECIBIDO: {"DataAreaId":null,"Enviroment":"SIT","SessionId":"725c5b4a-99b9-4ff8-ad4a-6e02836fae5f","appaymentvendorcontractlist":[{"period":"2022","apcodeindependentvend":"1500","ruc":"0920154648001","invoicenumber":"001-001-12344556","paymmode":"EFE","fixedvalue":"P","paymentdate":"24/08/2021"},{"period":"2022","apcodeindependentvend":"1500","ruc":"0920154648001","invoicenumber":"001-001-12344578","paymmode":"EFE","fixedvalue":"P","paymentdate":"24/08/2021"}]}
+2021-09-13 T 14:40:34 || WS FUNCION: Número de  intentos realizados : 0, Tiempo Transcurrido : 9521 ms.
+2021-09-13 T 14:40:37 || RESULTADO RECIBIDO WS: {"StatusCode":0,"Response":null,"DescripcionId":null,"ErrorList":null}
+2021-09-13 T 14:40:58 || WS FUNCION: Número de  intentos realizados : 0, Tiempo Transcurrido : 35503 ms.
+2021-09-13 T 14:40:58 || RESULTADO RECIBIDO WS: {"StatusCode":0,"Response":null,"DescripcionId":null,"ErrorList":null}
+2021-09-13 T 14:46:28 || Procesando Función
+2021-09-13 T 14:46:29 || REQUEST RECIBIDO: {"DataAreaId":null,"Enviroment":"SIT","SessionId":"957c8198-db79-44da-8d1f-2c7e7f93f37b","appaymentvendorcontractlist":[{"period":"2022","apcodeindependentvend":"1500","ruc":"0920154648001","invoicenumber":"001-001-12344556","paymmode":"EFE","fixedvalue":"P","paymentdate":"24/08/2021"},{"period":"2022","apcodeindependentvend":"1500","ruc":"0920154648001","invoicenumber":"001-001-12344578","paymmode":"EFE","fixedvalue":"P","paymentdate":"24/08/2021"}]}

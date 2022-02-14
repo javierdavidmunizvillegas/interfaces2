@@ -1,0 +1,17 @@
+2021-07-06 T 09:57:06 || CONTROLADOR: Request Recibido: {"VATNum":"019008039001","DataAreaId":"000001","SessionId":"","Enviroment":"TEST"}
+2021-07-06 T 09:57:08 || CONTROLADOR: Request Recibido: {"VATNum":"019008039001","DataAreaId":"000001","SessionId":"","Enviroment":"TEST"}
+2021-07-06 T 09:57:16 || SERVICIO RESPONSE - HOMOLOGACION : Número de  intentos realizados : 0, Tiempo Transcurrido : 573 ms.
+2021-07-06 T 09:57:17 || SERVICIO RESPONSE - HOMOLOGACION : Número de  intentos realizados : 0, Tiempo Transcurrido : 573 ms.
+2021-07-06 T 09:57:18 || CONTROLADOR: Request Enviado a Dynamics: {"VATNum":"019008039001","DataAreaId":"0001","SessionId":"6fb8b970-1383-429a-90b5-69672c5e0ac3","Enviroment":"TEST"}
+2021-07-06 T 09:57:19 || CONTROLADOR: Request Enviado a Dynamics: {"VATNum":"019008039001","DataAreaId":"0001","SessionId":"de74aa1e-7f3b-4c3e-ae20-ea4bd357c015","Enviroment":"TEST"}
+2021-07-06 T 09:57:33 || CONTROLADOR: Request Recibido: {"VATNum":"019008039001","DataAreaId":"000001","SessionId":"","Enviroment":"TEST"}
+2021-07-06 T 09:57:36 || SERVICIO RESPONSE - HOMOLOGACION : Número de  intentos realizados : 0, Tiempo Transcurrido : 65 ms.
+2021-07-06 T 09:57:37 || CONTROLADOR: Request Enviado a Dynamics: {"VATNum":"019008039001","DataAreaId":"0001","SessionId":"ad38b289-637d-4e03-85bc-899e9b70bbf4","Enviroment":"TEST"}
+2021-07-06 T 09:58:30 || CONTROLADOR: No se retorno resultado de Dynamics
+2021-07-06 T 09:58:30 || CONTROLADOR: No se retorno resultado de Dynamics
+2021-07-06 T 09:58:30 || CONTROLADOR: No se retorno resultado de Dynamics
+2021-07-06 T 09:58:36 || CONTROLADOR: Request Recibido: {"VATNum":"019008039001","DataAreaId":"000001","SessionId":"","Enviroment":"TEST"}
+2021-07-06 T 09:58:36 || SERVICIO RESPONSE - HOMOLOGACION : Número de  intentos realizados : 0, Tiempo Transcurrido : 65 ms.
+2021-07-06 T 09:58:37 || CONTROLADOR: Request Enviado a Dynamics: {"VATNum":"019008039001","DataAreaId":"0001","SessionId":"570c8c6b-5b8f-4671-b2f7-b7f0b952babf","Enviroment":"TEST"}
+2021-07-06 T 09:58:43 || SERVICIO RESPONSE : Número de  intentos realizados : 0, Tiempo Transcurrido : 2178 ms.
+2021-07-06 T 09:58:43 || No existe información para ese codigo del cliente
