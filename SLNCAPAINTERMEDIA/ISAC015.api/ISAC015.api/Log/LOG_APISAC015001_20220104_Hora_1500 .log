@@ -1,4 +1,0 @@
-2022-01-04 T 15:59:21 || CONTROLADOR: Request Recibido: {"DataAreaId":"000001","Enviroment":"DEV015","SessionId":"{00000000-0000-0000-0000-000000000000}","DeliveryProductQuery":{"CustAccount":"522","Invoice":"","ItemId":"","DeliveryType":""}}
-2022-01-04 T 15:59:22 || WS HOMOLOGACIÓN : Número de  intentos realizados : 0, Tiempo Transcurrido : 532 ms.
-2022-01-04 T 15:59:22 || Convierte Código CrecosAdynamics: Código a Crecos C000000522
-2022-01-04 T 15:59:22 || CONTROLADOR: Request Enviado a Dynamics: {"DataAreaId":"0001","Enviroment":"SIT","SessionId":"688976a7-1db0-426f-8c4e-35d9757742a4","DeliveryProductQuery":{"CustAccount":"C000000522","Invoice":"","ItemId":"","DeliveryType":""}}
