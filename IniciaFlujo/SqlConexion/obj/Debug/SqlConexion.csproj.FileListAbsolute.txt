@@ -1,0 +1,17 @@
+C:\Users\rosi-\source\repos\ApiBilleteComprador\SqlConexion\bin\Debug\SqlConexion.dll
+C:\Users\rosi-\source\repos\ApiBilleteComprador\SqlConexion\bin\Debug\SqlConexion.pdb
+C:\Users\rosi-\source\repos\ApiBilleteComprador\SqlConexion\obj\Debug\SqlConexion.csproj.AssemblyReference.cache
+C:\Users\rosi-\source\repos\ApiBilleteComprador\SqlConexion\obj\Debug\SqlConexion.csproj.CoreCompileInputs.cache
+C:\Users\rosi-\source\repos\ApiBilleteComprador\SqlConexion\obj\Debug\SqlConexion.dll
+C:\Users\rosi-\source\repos\ApiBilleteComprador\SqlConexion\obj\Debug\SqlConexion.pdb
+C:\Users\rosi-\source\repos\ApiFlujoCaja\SqlConexion\bin\Debug\SqlConexion.dll
+C:\Users\rosi-\source\repos\ApiFlujoCaja\SqlConexion\bin\Debug\SqlConexion.pdb
+C:\Users\rosi-\source\repos\ApiFlujoCaja\SqlConexion\obj\Debug\SqlConexion.csproj.CoreCompileInputs.cache
+C:\Users\rosi-\source\repos\ApiFlujoCaja\SqlConexion\obj\Debug\SqlConexion.dll
+C:\Users\rosi-\source\repos\ApiFlujoCaja\SqlConexion\obj\Debug\SqlConexion.pdb
+C:\Users\JavierMuñiz\Downloads\ApiFlujoCaja\SqlConexion\bin\Debug\SqlConexion.dll
+C:\Users\JavierMuñiz\Downloads\ApiFlujoCaja\SqlConexion\bin\Debug\SqlConexion.pdb
+C:\Users\JavierMuñiz\Downloads\ApiFlujoCaja\SqlConexion\obj\Debug\SqlConexion.csproj.AssemblyReference.cache
+C:\Users\JavierMuñiz\Downloads\ApiFlujoCaja\SqlConexion\obj\Debug\SqlConexion.csproj.CoreCompileInputs.cache
+C:\Users\JavierMuñiz\Downloads\ApiFlujoCaja\SqlConexion\obj\Debug\SqlConexion.dll
+C:\Users\JavierMuñiz\Downloads\ApiFlujoCaja\SqlConexion\obj\Debug\SqlConexion.pdb
