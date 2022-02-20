@@ -15,3 +15,9 @@ C:\Users\JavierMuñiz\Downloads\ApiFlujoCaja\SqlConexion\obj\Debug\SqlConexion.c
 C:\Users\JavierMuñiz\Downloads\ApiFlujoCaja\SqlConexion\obj\Debug\SqlConexion.csproj.CoreCompileInputs.cache
 C:\Users\JavierMuñiz\Downloads\ApiFlujoCaja\SqlConexion\obj\Debug\SqlConexion.dll
 C:\Users\JavierMuñiz\Downloads\ApiFlujoCaja\SqlConexion\obj\Debug\SqlConexion.pdb
+C:\Users\alvar\Documents\TECSOLEC\PWC\ProyectoInterface\IniciaFlujo\SqlConexion\bin\Debug\SqlConexion.dll
+C:\Users\alvar\Documents\TECSOLEC\PWC\ProyectoInterface\IniciaFlujo\SqlConexion\bin\Debug\SqlConexion.pdb
+C:\Users\alvar\Documents\TECSOLEC\PWC\ProyectoInterface\IniciaFlujo\SqlConexion\obj\Debug\SqlConexion.csproj.AssemblyReference.cache
+C:\Users\alvar\Documents\TECSOLEC\PWC\ProyectoInterface\IniciaFlujo\SqlConexion\obj\Debug\SqlConexion.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Documents\TECSOLEC\PWC\ProyectoInterface\IniciaFlujo\SqlConexion\obj\Debug\SqlConexion.dll
+C:\Users\alvar\Documents\TECSOLEC\PWC\ProyectoInterface\IniciaFlujo\SqlConexion\obj\Debug\SqlConexion.pdb

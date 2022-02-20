@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -51,6 +54,15 @@
     <Compile Include="BCRequest.cs" />
     <Compile Include="BCResult.cs" />
     <Compile Include="CajaItemsFlujo.cs" />
+    <Compile Include="CarteraDTO\CarteraCabeceraVM.cs" />
+    <Compile Include="CarteraDTO\CarteraDetalleVM.cs" />
+    <Compile Include="CarteraDTO\DocumentInvoice.cs" />
+    <Compile Include="CarteraDTO\DocumentInvoiceLine.cs" />
+    <Compile Include="CarteraDTO\ItemList.cs" />
+    <Compile Include="CarteraDTO\Operacion.cs" />
+    <Compile Include="CarteraDTO\ProvisionNC.cs" />
+    <Compile Include="CarteraDTO\RequestCartera.cs" />
+    <Compile Include="CarteraDTO\ResponseCartera.cs" />
     <Compile Include="ConsultaDatosFacturaRequest.cs" />
     <Compile Include="ConsultaDatosFacturaResponse.cs" />
     <Compile Include="Diccionario.cs" />
@@ -79,6 +91,9 @@
     <Compile Include="VTA028NotificaServicioRequest.cs" />
     <Compile Include="VTA029Request.cs" />
     <Compile Include="VTAResponse.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

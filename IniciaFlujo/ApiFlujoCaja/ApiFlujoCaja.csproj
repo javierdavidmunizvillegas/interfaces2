@@ -161,6 +161,7 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Clases\clsConfirmacionPedidos.cs" />
+    <Compile Include="Clases\clsGeneracionCartera.cs" />
     <Compile Include="Clases\clsGTM004.cs" />
     <Compile Include="Clases\clsICAJ008.cs" />
     <Compile Include="Clases\clsICOB001.cs" />
