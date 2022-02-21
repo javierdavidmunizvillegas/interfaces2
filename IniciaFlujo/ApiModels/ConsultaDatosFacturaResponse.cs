@@ -8,6 +8,9 @@ namespace ApiModels
 {
     public class ConsultaDatosFacturaResponse : Base
     {
+        public bool response;
+        public string messages;
+
         public string NumeroPedido { get; set; }
         public string NumeroOrdenVenta { get; set; }
         public DateTime FechaOrdenVenta { get; set; }
