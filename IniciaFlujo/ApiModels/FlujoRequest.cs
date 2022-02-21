@@ -37,4 +37,11 @@ namespace ApiModels
             MedioPago = new List<MEDIOPAGO>();
         }
     }
+
+    public class MEDIOPAGO
+    {
+        public string FormaPago { get; set; }
+        public decimal Valor { get; set; }
+        public string AsientoContable { get; set; }
+    }
 }

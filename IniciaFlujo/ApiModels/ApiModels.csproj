@@ -4,12 +4,12 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{948EE138-892F-4535-8EF0-1238D0764018}</ProjectGuid>
+    <ProjectGuid>{99028277-5F30-4F17-B540-A2ADC515B8D4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ApiModels</RootNamespace>
     <AssemblyName>ApiModels</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
@@ -31,8 +31,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -44,40 +44,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ActualizaBilleteCompradorRequest.cs" />
-    <Compile Include="ActualizaBilleteCompradorResponse.cs" />
-    <Compile Include="AsistenciaDTO\AsistenciaRequest.cs" />
-    <Compile Include="AsistenciaRequest.cs" />
-    <Compile Include="AsistenciaResponse.cs" />
-    <Compile Include="AxTiendaGrupoSecuenciaDto.cs" />
+    <Compile Include="Comisiones\DocumentInvoice.cs" />
+    <Compile Include="Comisiones\DocumentInvoiceLine.cs" />
+    <Compile Include="Comisiones\RequestComisiones.cs" />
+    <Compile Include="Comisiones\ResponseComisiones.cs" />
+    <Compile Include="ConfirmacionPedido\VTAResponse.cs" />
+    <Compile Include="GeneracionCartera\CarteraCabeceraVM.cs" />
+    <Compile Include="GeneracionCartera\CarteraDetalleVM.cs" />
+    <Compile Include="GeneracionCartera\DocumentInvoice.cs" />
+    <Compile Include="GeneracionCartera\DocumentInvoiceLine.cs" />
+    <Compile Include="GeneracionCartera\ItemList.cs" />
+    <Compile Include="GeneracionCartera\Operacion.cs" />
+    <Compile Include="GeneracionCartera\ProvisionNC.cs" />
+    <Compile Include="GeneracionCartera\RequestCartera.cs" />
+    <Compile Include="GeneracionCartera\ResponseCartera.cs" />
+    <Compile Include="SecuenciasDocumentos\AxTiendaGrupoSecuenciaDto.cs" />
     <Compile Include="Base.cs" />
-    <Compile Include="BCPedidoResult.cs" />
-    <Compile Include="BCRequest.cs" />
-    <Compile Include="BCResult.cs" />
-    <Compile Include="BonosDTO\Aplicado.cs" />
-    <Compile Include="BonosDTO\Condiciones.cs" />
-    <Compile Include="BonosDTO\FormaPago.cs" />
     <Compile Include="CajaItemsFlujo.cs" />
-    <Compile Include="CarteraDTO\CarteraCabeceraVM.cs" />
-    <Compile Include="CarteraDTO\CarteraDetalleVM.cs" />
-    <Compile Include="CarteraDTO\DocumentInvoice.cs" />
-    <Compile Include="CarteraDTO\DocumentInvoiceLine.cs" />
-    <Compile Include="CarteraDTO\ItemList.cs" />
-    <Compile Include="CarteraDTO\Operacion.cs" />
-    <Compile Include="CarteraDTO\ProvisionNC.cs" />
-    <Compile Include="CarteraDTO\RequestCartera.cs" />
-    <Compile Include="CarteraDTO\ResponseCartera.cs" />
-    <Compile Include="ComisionesDTO\DocumentInvoice.cs" />
-    <Compile Include="ComisionesDTO\DocumentInvoiceLine.cs" />
-    <Compile Include="ComisionesDTO\RequestComisiones.cs" />
-    <Compile Include="ComisionesDTO\ResponseComisiones.cs" />
     <Compile Include="ConsultaDatosFacturaRequest.cs" />
     <Compile Include="ConsultaDatosFacturaResponse.cs" />
     <Compile Include="Diccionario.cs" />
     <Compile Include="FlujoRequest.cs" />
-    <Compile Include="GeneracionCarteraRequest.cs" />
-    <Compile Include="GeneracionCarteraResponse.cs" />
-    <Compile Include="GeneracionComisionesResponse.cs" />
     <Compile Include="GTM004Request.cs" />
     <Compile Include="GTM004Response.cs" />
     <Compile Include="ICAJ008Request.cs" />
@@ -91,14 +78,9 @@
     <Compile Include="ICRE004Response.cs" />
     <Compile Include="ICRE006Response.cs" />
     <Compile Include="ICRE009Response.cs" />
-    <Compile Include="MEDIOPAGO.cs" />
-    <Compile Include="PEDIDO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SecuenciaResponse.cs" />
-    <Compile Include="VTA028ConsultaServicioRequest.cs" />
-    <Compile Include="VTA028NotificaServicioRequest.cs" />
-    <Compile Include="VTA029Request.cs" />
-    <Compile Include="VTAResponse.cs" />
+    <Compile Include="SecuenciasDocumentos\SecuenciaResponse.cs" />
+    <Compile Include="ConfirmacionPedido\VTA029Request.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

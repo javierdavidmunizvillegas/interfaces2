@@ -7,14 +7,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace ApiFlujoCaja.Clases
+namespace ApiFlujoCaja
 {
     public class clsGeneracionCartera: clsSIAC
     {
-
-        public List<ResponseCartera> GeneracionCartera(FlujoRequest Datos, ICAJ008Response parametros)
+        public ResponseCartera GeneracionCartera(FlujoRequest Datos, ICAJ008Response parametros)
         {
-            List<ResponseCartera> respuesta = new List<ResponseCartera>();
+            ResponseCartera respuesta = new ResponseCartera();
             string JsonResponse = string.Empty;
             RestClient client = null;
             string Baseurl = "";
@@ -24,7 +23,6 @@ namespace ApiFlujoCaja.Clases
             {
                 try
                 {
-
                     List<APDocumentInvoiceRequestTableICAJ008001> listaDocumentos = parametros.documentInvoiceRequestTableList;
                     List<DocumentInvoice> listaDocumentosCartera = new List<DocumentInvoice>();
                     foreach (var item in listaDocumentos)
@@ -94,24 +92,27 @@ namespace ApiFlujoCaja.Clases
                             var responseApi = client.Post(requestCartera);
                             var content = responseApi.Content;
                             var resultado = JsonConvert.DeserializeObject<ApiModels.CarteraDTO.ResponseCartera>(content);
-                            respuesta.Add(resultado);
+                            respuesta = resultado;
                             if (resultado.StatusCode.Equals("OK"))
                             {
+                                respuesta.Estado = true;
+                                respuesta.CodigoError = 0;
                                 RegistrarLogs(Datos, "GeneracionCartera - CJ008", JsonConvert.SerializeObject(elemento), JsonConvert.SerializeObject(content), string.Empty, "TRUE");
                             }
                             else
                             {
+                                respuesta.Estado = false;
+                                respuesta.CodigoError = 400;
                                 RegistrarLogs(Datos, "GeneracionCartera - CJ008", JsonConvert.SerializeObject(elemento), JsonConvert.SerializeObject(content), string.Empty, "FALSE");
                             }
-
-
                         }
                     }
-
                 }
                 catch(Exception ex)
                 {
-
+                    respuesta.Estado = false;
+                    respuesta.CodigoError = 99;
+                    RegistrarLogs(Datos, "GeneracionCartera - CJ008", string.Empty, ex.Message, string.Empty, "FALSE");
                 }
             }
             return respuesta;
