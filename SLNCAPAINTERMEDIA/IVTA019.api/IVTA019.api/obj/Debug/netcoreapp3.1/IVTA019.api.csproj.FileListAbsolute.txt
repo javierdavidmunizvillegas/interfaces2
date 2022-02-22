@@ -237,7 +237,6 @@ C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA01
 C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA019.api\IVTA019.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA019.api\IVTA019.api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA019.api\IVTA019.api\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
-C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA019.api\IVTA019.api\obj\Debug\netcoreapp3.1\IVTA019.api.csproj.AssemblyReference.cache
 C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA019.api\IVTA019.api\obj\Debug\netcoreapp3.1\IVTA019.api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA019.api\IVTA019.api\obj\Debug\netcoreapp3.1\IVTA019.api.AssemblyInfoInputs.cache
 C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA019.api\IVTA019.api\obj\Debug\netcoreapp3.1\IVTA019.api.AssemblyInfo.cs
@@ -251,3 +250,4 @@ C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA01
 C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA019.api\IVTA019.api\obj\Debug\netcoreapp3.1\IVTA019.api.dll
 C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA019.api\IVTA019.api\obj\Debug\netcoreapp3.1\IVTA019.api.pdb
 C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA019.api\IVTA019.api\obj\Debug\netcoreapp3.1\IVTA019.api.genruntimeconfig.cache
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA019.api\IVTA019.api\obj\Debug\netcoreapp3.1\IVTA019.api.csproj.CopyComplete

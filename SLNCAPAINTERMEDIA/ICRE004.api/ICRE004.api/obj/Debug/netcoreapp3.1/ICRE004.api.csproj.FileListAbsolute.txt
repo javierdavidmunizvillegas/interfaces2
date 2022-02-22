@@ -291,3 +291,45 @@ C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ICRE004.api\ICRE004.api
 C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ICRE004.api\ICRE004.api\obj\Debug\netcoreapp3.1\ICRE004.api.dll
 C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ICRE004.api\ICRE004.api\obj\Debug\netcoreapp3.1\ICRE004.api.pdb
 C:\Users\henry\Desktop\INFORMACION_PWC\CODIGO\INTERFACES\ICRE004.api\ICRE004.api\obj\Debug\netcoreapp3.1\ICRE004.api.genruntimeconfig.cache
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\ICRE004.api.exe
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\ICRE004.api.deps.json
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\ICRE004.api.runtimeconfig.json
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\ICRE004.api.runtimeconfig.dev.json
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\ICRE004.api.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\ICRE004.api.pdb
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\Azure.Core.Amqp.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\Azure.Messaging.ServiceBus.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\obj\Debug\netcoreapp3.1\ICRE004.api.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\obj\Debug\netcoreapp3.1\ICRE004.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\obj\Debug\netcoreapp3.1\ICRE004.api.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\obj\Debug\netcoreapp3.1\ICRE004.api.AssemblyInfo.cs
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\obj\Debug\netcoreapp3.1\ICRE004.api.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\obj\Debug\netcoreapp3.1\ICRE004.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\obj\Debug\netcoreapp3.1\ICRE004.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\obj\Debug\netcoreapp3.1\staticwebassets\ICRE004.api.StaticWebAssets.Manifest.cache
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\obj\Debug\netcoreapp3.1\staticwebassets\ICRE004.api.StaticWebAssets.xml
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\obj\Debug\netcoreapp3.1\scopedcss\bundle\ICRE004.api.styles.css
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\obj\Debug\netcoreapp3.1\ICRE004.api.RazorTargetAssemblyInfo.cache
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\obj\Debug\netcoreapp3.1\ICRE004.api.dll
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\obj\Debug\netcoreapp3.1\ICRE004.api.pdb
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\obj\Debug\netcoreapp3.1\ICRE004.api.genruntimeconfig.cache
