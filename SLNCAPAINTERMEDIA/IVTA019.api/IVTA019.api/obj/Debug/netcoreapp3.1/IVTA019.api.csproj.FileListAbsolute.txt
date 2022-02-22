@@ -251,3 +251,4 @@ C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA01
 C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA019.api\IVTA019.api\obj\Debug\netcoreapp3.1\IVTA019.api.pdb
 C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA019.api\IVTA019.api\obj\Debug\netcoreapp3.1\IVTA019.api.genruntimeconfig.cache
 C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA019.api\IVTA019.api\obj\Debug\netcoreapp3.1\IVTA019.api.csproj.CopyComplete
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA019.api\IVTA019.api\obj\Debug\netcoreapp3.1\IVTA019.api.csproj.AssemblyReference.cache
