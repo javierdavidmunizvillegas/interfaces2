@@ -1,0 +1,5 @@
+C:\Users\JavierMuñiz\Source\Repos\ApiFlujoCaja\SqlConexion\obj\Debug\SqlConexion.csproj.CoreCompileInputs.cache
+C:\Users\JavierMuñiz\Source\Repos\ApiFlujoCaja\SqlConexion\bin\Debug\SqlConexion.dll
+C:\Users\JavierMuñiz\Source\Repos\ApiFlujoCaja\SqlConexion\bin\Debug\SqlConexion.pdb
+C:\Users\JavierMuñiz\Source\Repos\ApiFlujoCaja\SqlConexion\obj\Debug\SqlConexion.dll
+C:\Users\JavierMuñiz\Source\Repos\ApiFlujoCaja\SqlConexion\obj\Debug\SqlConexion.pdb
