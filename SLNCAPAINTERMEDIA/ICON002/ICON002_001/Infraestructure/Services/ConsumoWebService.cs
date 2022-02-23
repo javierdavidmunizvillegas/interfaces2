@@ -46,6 +46,24 @@ namespace ICON002.Infraestructure.Services
 
                     var response = client.Post(request);
 
+                    //if (response.StatusCode == HttpStatusCode.OK)
+                    //{
+                    //    var content = response.Content;
+                    //    resultadoApi = JsonConvert.DeserializeObject<T>(content);
+                    //    break;
+                    //}
+                    //else
+                    //{
+                    //    var content = response.Content;
+                    //    resultadoApi = JsonConvert.DeserializeObject<T>(content);
+                    //    await Task.Delay(segundos * SegAMiliS);
+                    //}
+
+
+                  
+                    if (response == null)
+                        throw new Exception("Respuesta Nulo");
+
                     if (response.StatusCode == HttpStatusCode.OK)
                     {
                         var content = response.Content;
@@ -54,10 +72,11 @@ namespace ICON002.Infraestructure.Services
                     }
                     else
                     {
-                        var content = response.Content;
-                        resultadoApi = JsonConvert.DeserializeObject<T>(content);
-                        await Task.Delay(segundos * SegAMiliS);
+                        if (!(string.IsNullOrEmpty(response.ErrorMessage) || string.IsNullOrWhiteSpace(response.ErrorMessage)))
+                            throw new Exception(typeof(ConsumoWebService<T>).ToString() + response.ErrorMessage);
+
                     }
+
                     contador++;
                 }
 
