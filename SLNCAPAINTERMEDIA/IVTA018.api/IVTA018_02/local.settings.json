@@ -1,0 +1,18 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "RutaLog": "C:\\Log\\",
+    "ConectionStringResponse": "Endpoint=sb://crecoscorpprod.servicebus.windows.net/;SharedAccessKeyName=RootListenSharedAccessKey;SharedAccessKey=cHwMILbcjBXUFWQjugAV9GNT0+kqPiR3QFFxMXVGDmk=",
+    "QueueResponse": "apivta018002response",
+    "UriConsumoWebService": "http://192.168.82.13:82/IVTA018WS/Api",
+    "MetodoWsUriConsumowebService": "/InsertaPrecios",
+    "UriHomologacionDynamicSiac": "http://192.168.82.13:82/EquivalenciaDynamics",
+    "MetodoWsUriSiac": "/api/equivalencia/grupo/empresa/siac",
+    "MetodoWsUriAx": "/api/equivalencia/grupo/ALMACEN/ax",
+    "ASPNETCORE_ENVIRONMENT": "SIT",
+    "TimeSleep": "1",
+    "Attempts": "3"
+  }
+}

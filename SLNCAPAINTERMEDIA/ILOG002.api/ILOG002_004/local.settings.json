@@ -1,0 +1,27 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "RutaLog": "C:\\Log\\",
+    "ConectionStringRequest": "Endpoint=sb://crecoscorpprod.servicebus.windows.net/;SharedAccessKeyName=RootListenSharedAccessKey;SharedAccessKey=cHwMILbcjBXUFWQjugAV9GNT0+kqPiR3QFFxMXVGDmk=",
+    "ConectionStringResponse": "Endpoint=sb://crecoscorpprod.servicebus.windows.net/;SharedAccessKeyName=RootSendSharedAccessKey;SharedAccessKey=C9bdEuRdmxGd+TOGxSv3bS2fWVex1NKIUY91YdCvwb0=",
+    "QueueRequest004": "apilog002004queuerequest",
+    "QueueResponse004": "apilog002004queueresponse",
+    "UriConsumoWebService001": "https://api.shippify.co/courier/v1/tasks",
+    "MetodoWsUriConsumowebService001": "/not_picked_up",
+    "UriConsumoWebService002": "https://courier.shippify.co/v2/couriers",
+    "MetodoWsUriConsumowebService002": "/login",
+    "ParAuthorization": "Authorization",
+    "ValAuthorization": "Basic a3R3MWk5YXZ0dXY1NDR1bWg4aDprdHcxaTlmbjVs",
+    "ParEmail": "degumeji@gmail.com",
+    "ParPassword": "12345",
+    "ParToken": "X-Access-Token",
+    "ASPNETCORE_ENVIRONMENT": "SIT",
+    "UriHomologacionDynamicSiac": "http://192.168.82.13:82/EquivalenciaDynamics",
+    "MetodoWsUriSiac": "/api/equivalencia/grupo/empresa/siac",
+    "MetodoWsUriAx": "/api/equivalencia/grupo/empresa/ax",
+    "TimeSleep": "1",
+    "Attempts": "3"
+  }
+}

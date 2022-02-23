@@ -1,0 +1,20 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "RutaLog": "C:\\Log\\",
+    "ConectionStringRequest": "Endpoint=sb://crecoscorpprod.servicebus.windows.net/;SharedAccessKeyName=RootListenSharedAccessKey;SharedAccessKey=cHwMILbcjBXUFWQjugAV9GNT0+kqPiR3QFFxMXVGDmk=",
+    "ConectionStringResponse": "Endpoint=sb://crecoscorpprod.servicebus.windows.net/;SharedAccessKeyName=RootSendSharedAccessKey;SharedAccessKey=C9bdEuRdmxGd+TOGxSv3bS2fWVex1NKIUY91YdCvwb0=",
+    "QueueRequest1": "apicon002001queuerequest",
+    "QueueResponse1": "apicon002001queueresponse",
+    "UriConsumoWebService001": "http://192.168.82.13:82/FacturacionElectronicaDynamics/api/FacturaElectronica",
+    "MetodoWsUriConsumowebService001": "/InsertFactura",
+    "UriHomologacionDynamicSiac": "http://192.168.82.13:82/EquivalenciaDynamics",
+    "MetodoWsUriSiac": "/api/equivalencia/grupo/empresa/siac",
+    "MetodoWsUriAx": "/api/equivalencia/grupo/empresa/ax",
+    "ASPNETCORE_ENVIRONMENT": "SIT",
+    "TimeSleep": "1",
+    "Attempts": "3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "RutaLog": "C:\\Log\\",
+    "ConectionStringRequest001": "Endpoint=sb://crecoscorpprod.servicebus.windows.net/;SharedAccessKeyName=RootListenSharedAccessKey;SharedAccessKey=cHwMILbcjBXUFWQjugAV9GNT0+kqPiR3QFFxMXVGDmk=",
+    "QueueRequest001": "apisac021002queuerequest",
+    "UriConsumoWebService": "http://192.168.82.13:82/ProcesosServicioTecnico/api/",
+    "MetodoWsUriConsumowebService": "serviciotecnico/ActualizaOrdenVenta",
+    "ASPNETCORE_ENVIRONMENT": "SIT",
+    "TimeSleep": "1",
+    "Attempts": "10"
+  }
+}
