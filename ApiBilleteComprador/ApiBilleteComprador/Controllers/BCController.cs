@@ -47,7 +47,9 @@ namespace ApiBilleteComprador.Controllers
                         Usado = (string)xml.Element("USADO"),
                         FechaVencimiento = (string)xml.Element("DFECHAVENCIMIENTO"),
                         IdProvisional = (string)xml.Element("IIDASIENTOPROVISION"),
-                        Monto = (decimal)xml.Element("IVALOR")
+                        Monto = (decimal)xml.Element("IVALOR"),
+                        NumeroNC= (string)xml.Element("CNUMERONOTACREDITO"),
+                        ValorNC= (decimal)xml.Element("IVALORNOTACREDITO")
 
                     };
 
@@ -62,7 +64,9 @@ namespace ApiBilleteComprador.Controllers
                             Usado = item.Usado,
                             FechaVencimiento = item.FechaVencimiento,
                             IdProvisional = item.IdProvisional,
-                            Monto = item.Monto
+                            Monto = item.Monto,
+                            NumeroNC = item.NumeroNC,
+                            ValorNC =item.ValorNC
                         });
                     }
 

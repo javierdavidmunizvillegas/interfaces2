@@ -26,5 +26,8 @@ namespace ApiModels
         public string FechaVencimiento { get; set; }
         public string IdProvisional { get; set; }
         public decimal Monto { get; set; }
+        public string NumeroNC { get; set; }
+        public decimal ValorNC { get; set; }
+
     }
 }
