@@ -1,0 +1,12 @@
+C:\Users\rosi-\source\repos\ApiBilleteComprador\ApiModels\bin\Debug\ApiModels.dll
+C:\Users\rosi-\source\repos\ApiBilleteComprador\ApiModels\bin\Debug\ApiModels.pdb
+C:\Users\rosi-\source\repos\ApiBilleteComprador\ApiModels\obj\Debug\ApiModels.csproj.AssemblyReference.cache
+C:\Users\rosi-\source\repos\ApiBilleteComprador\ApiModels\obj\Debug\ApiModels.csproj.CoreCompileInputs.cache
+C:\Users\rosi-\source\repos\ApiBilleteComprador\ApiModels\obj\Debug\ApiModels.dll
+C:\Users\rosi-\source\repos\ApiBilleteComprador\ApiModels\obj\Debug\ApiModels.pdb
+C:\Users\Tatito\Documents\ServicioSuper\ApiBilleteComprador\ApiModels\bin\Debug\ApiModels.dll
+C:\Users\Tatito\Documents\ServicioSuper\ApiBilleteComprador\ApiModels\bin\Debug\ApiModels.pdb
+C:\Users\Tatito\Documents\ServicioSuper\ApiBilleteComprador\ApiModels\obj\Debug\ApiModels.csproj.AssemblyReference.cache
+C:\Users\Tatito\Documents\ServicioSuper\ApiBilleteComprador\ApiModels\obj\Debug\ApiModels.csproj.CoreCompileInputs.cache
+C:\Users\Tatito\Documents\ServicioSuper\ApiBilleteComprador\ApiModels\obj\Debug\ApiModels.dll
+C:\Users\Tatito\Documents\ServicioSuper\ApiBilleteComprador\ApiModels\obj\Debug\ApiModels.pdb
