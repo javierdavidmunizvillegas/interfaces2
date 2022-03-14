@@ -333,3 +333,4 @@ C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE00
 C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\obj\Debug\netcoreapp3.1\ICRE004.api.dll
 C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\obj\Debug\netcoreapp3.1\ICRE004.api.pdb
 C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\obj\Debug\netcoreapp3.1\ICRE004.api.genruntimeconfig.cache
+C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\ICRE004.api\ICRE004.api\obj\Debug\netcoreapp3.1\ICRE004.api.csproj.CopyComplete

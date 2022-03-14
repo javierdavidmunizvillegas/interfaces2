@@ -1,3 +1,11 @@
+/*
+ Objetivo: Está encargado de definir los archivos de configuración (en formato JSON mejor que XML) e indicar las modalidades de tratamiento de consultas HTTP.
+ Archivo: Startup.cs
+ Versión: 1.0
+ Creación: 07/03/2022
+ Autor: Solange Moncada
+*/
+
 using DCAJ017.api.Infraestructura.Servicios;
 using DCAJ017.api.Infraestructure.Configuration;
 using DCAJ017.api.Infraestructure.Services;
@@ -31,8 +39,14 @@ namespace DCAJ017.api
         }
 
         public IConfiguration Configuration { get; }
-
-        // This method gets called by the runtime. Use this method to add services to the container.
+        
+        /*
+          Descripción: En este método se hace el llamado a los controladores 1, 2, 3, homologación y swagger.
+          Parámetros de entrada: No aplica
+          Parámetros de salida: No aplica
+          Último cambio: 07/03/2022
+          Autor de último cambio: Solange Moncada
+        */
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
@@ -67,7 +81,13 @@ namespace DCAJ017.api
             });
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        /*
+          Descripción: Método que se ejecutará justo al iniciar la aplicación. Se encuentra configurada la ruta de Swagger.
+          Parámetros de entrada: No aplica
+          Parámetros de salida: No aplica
+          Último cambio: 07/03/2022
+          Autor de último cambio: Solange Moncada
+        */
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
@@ -81,6 +101,7 @@ namespace DCAJ017.api
 
             app.UseAuthorization();
 
+            /*Valores de configuración para Swagger*/
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(

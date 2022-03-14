@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ Objetivo: Almacena variables de APDCAJ017003MessageRequest
+ Archivo: APDCAJ017003MessageRequest.cs
+ Versión: 1.0
+ Creación: 07/03/2022
+ Autor: Solange Moncada
+*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;

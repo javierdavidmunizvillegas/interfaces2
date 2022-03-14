@@ -1,4 +1,12 @@
-﻿using DCAJ017.api.Models._002.Response;
+﻿/*
+ Objetivo: Valida los campos obligatorios de las clases del Controlador.
+ Archivo: ValidadorRequest002.cs
+ Versión: 1.0
+ Creación: 09/03/2022
+ Autor: Solange Moncada
+*/
+
+using DCAJ017.api.Models._002.Response;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 using Newtonsoft.Json;
@@ -35,12 +43,10 @@ namespace DCAJ017.api.Infraestructure.Configuration
                     respuesta.StatusId = false;
                     respuesta.ErrorList = new List<string>();
 
+                    /*Agrega al errorlist todos los campos obligatorios que no ha sido llenados*/
                     foreach (var det in errors)
-                    {
-                       
-                        respuesta.ErrorList.Add(det.Select(x => x.ErrorMessage).FirstOrDefault());
-                       
-
+                    {                       
+                        respuesta.ErrorList.Add(det.Select(x => x.ErrorMessage).FirstOrDefault());  
                     }
                     context.Result = new BadRequestObjectResult(respuesta);
                 }
