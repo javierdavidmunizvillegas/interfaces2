@@ -171,3 +171,47 @@ C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA01
 C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\obj\Debug\netcoreapp3.1\IVTA018.api.dll
 C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\obj\Debug\netcoreapp3.1\IVTA018.api.pdb
 C:\Users\henry\source\repos\Interfaces Capa Integracion\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\obj\Debug\netcoreapp3.1\IVTA018.api.genruntimeconfig.cache
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\appsettings.json
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\IVTA018.api.exe
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\IVTA018.api.deps.json
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\IVTA018.api.runtimeconfig.json
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\IVTA018.api.runtimeconfig.dev.json
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\IVTA018.api.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\IVTA018.api.pdb
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\Azure.Core.Amqp.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\Azure.Messaging.ServiceBus.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\RestSharp.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\obj\Debug\netcoreapp3.1\IVTA018.api.csproj.AssemblyReference.cache
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\obj\Debug\netcoreapp3.1\IVTA018.api.GeneratedMSBuildEditorConfig.editorconfig
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\obj\Debug\netcoreapp3.1\IVTA018.api.AssemblyInfoInputs.cache
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\obj\Debug\netcoreapp3.1\IVTA018.api.AssemblyInfo.cs
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\obj\Debug\netcoreapp3.1\IVTA018.api.csproj.CoreCompileInputs.cache
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\obj\Debug\netcoreapp3.1\IVTA018.api.MvcApplicationPartsAssemblyInfo.cs
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\obj\Debug\netcoreapp3.1\IVTA018.api.MvcApplicationPartsAssemblyInfo.cache
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\obj\Debug\netcoreapp3.1\staticwebassets\IVTA018.api.StaticWebAssets.Manifest.cache
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\obj\Debug\netcoreapp3.1\staticwebassets\IVTA018.api.StaticWebAssets.xml
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\obj\Debug\netcoreapp3.1\scopedcss\bundle\IVTA018.api.styles.css
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\obj\Debug\netcoreapp3.1\IVTA018.api.RazorTargetAssemblyInfo.cache
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\obj\Debug\netcoreapp3.1\IVTA018.api.csproj.CopyComplete
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\obj\Debug\netcoreapp3.1\IVTA018.api.dll
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\obj\Debug\netcoreapp3.1\IVTA018.api.pdb
+E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IVTA018.api\IVTA018.api\obj\Debug\netcoreapp3.1\IVTA018.api.genruntimeconfig.cache

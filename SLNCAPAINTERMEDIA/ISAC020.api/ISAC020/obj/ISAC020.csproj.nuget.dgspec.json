@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\henry\\source\\repos\\Interfaces Capa Integracion\\SLNCAPAINTERMEDIA\\ISAC020.api\\ISAC020\\ISAC020.csproj": {}
+    "E:\\MONICA\\InterfaceDEF\\interfaces2\\SLNCAPAINTERMEDIA\\ISAC020.api\\ISAC020\\ISAC020.csproj": {}
   },
   "projects": {
-    "C:\\Users\\henry\\source\\repos\\Interfaces Capa Integracion\\SLNCAPAINTERMEDIA\\ISAC020.api\\ISAC020\\ISAC020.csproj": {
+    "E:\\MONICA\\InterfaceDEF\\interfaces2\\SLNCAPAINTERMEDIA\\ISAC020.api\\ISAC020\\ISAC020.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henry\\source\\repos\\Interfaces Capa Integracion\\SLNCAPAINTERMEDIA\\ISAC020.api\\ISAC020\\ISAC020.csproj",
+        "projectUniqueName": "E:\\MONICA\\InterfaceDEF\\interfaces2\\SLNCAPAINTERMEDIA\\ISAC020.api\\ISAC020\\ISAC020.csproj",
         "projectName": "ISAC020",
-        "projectPath": "C:\\Users\\henry\\source\\repos\\Interfaces Capa Integracion\\SLNCAPAINTERMEDIA\\ISAC020.api\\ISAC020\\ISAC020.csproj",
-        "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henry\\source\\repos\\Interfaces Capa Integracion\\SLNCAPAINTERMEDIA\\ISAC020.api\\ISAC020\\obj\\",
+        "projectPath": "E:\\MONICA\\InterfaceDEF\\interfaces2\\SLNCAPAINTERMEDIA\\ISAC020.api\\ISAC020\\ISAC020.csproj",
+        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+        "outputPath": "E:\\MONICA\\InterfaceDEF\\interfaces2\\SLNCAPAINTERMEDIA\\ISAC020.api\\ISAC020\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\MONICA\\pwc\\DataBaseProyect\\PaqueteNuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

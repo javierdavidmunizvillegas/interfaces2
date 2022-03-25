@@ -6367,19 +6367,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\henry\\.nuget\\packages\\": {}
+    "C:\\Users\\victo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\henry\\source\\repos\\Interfaces Capa Integracion\\SLNCAPAINTERMEDIA\\ICAJ009.api\\ICAJ009.api.csproj",
+      "projectUniqueName": "E:\\MONICA\\InterfaceDEF\\interfaces2\\SLNCAPAINTERMEDIA\\ICAJ009.api\\ICAJ009.api.csproj",
       "projectName": "ICAJ009.api",
-      "projectPath": "C:\\Users\\henry\\source\\repos\\Interfaces Capa Integracion\\SLNCAPAINTERMEDIA\\ICAJ009.api\\ICAJ009.api.csproj",
-      "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\henry\\source\\repos\\Interfaces Capa Integracion\\SLNCAPAINTERMEDIA\\ICAJ009.api\\obj\\",
+      "projectPath": "E:\\MONICA\\InterfaceDEF\\interfaces2\\SLNCAPAINTERMEDIA\\ICAJ009.api\\ICAJ009.api.csproj",
+      "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+      "outputPath": "E:\\MONICA\\InterfaceDEF\\interfaces2\\SLNCAPAINTERMEDIA\\ICAJ009.api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6387,6 +6387,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "E:\\MONICA\\pwc\\DataBaseProyect\\PaqueteNuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
