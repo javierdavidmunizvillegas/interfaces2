@@ -201,7 +201,6 @@ E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\ICAJ004.api\ICAJ004.api\bin
 E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\ICAJ004.api\ICAJ004.api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\ICAJ004.api\ICAJ004.api\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
 E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\ICAJ004.api\ICAJ004.api\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
-E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\ICAJ004.api\ICAJ004.api\obj\Debug\netcoreapp3.1\ICAJ004.api.csproj.AssemblyReference.cache
 E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\ICAJ004.api\ICAJ004.api\obj\Debug\netcoreapp3.1\ICAJ004.api.GeneratedMSBuildEditorConfig.editorconfig
 E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\ICAJ004.api\ICAJ004.api\obj\Debug\netcoreapp3.1\ICAJ004.api.AssemblyInfoInputs.cache
 E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\ICAJ004.api\ICAJ004.api\obj\Debug\netcoreapp3.1\ICAJ004.api.AssemblyInfo.cs

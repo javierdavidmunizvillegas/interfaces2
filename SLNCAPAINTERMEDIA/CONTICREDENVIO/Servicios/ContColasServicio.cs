@@ -84,10 +84,14 @@ namespace CONTICREDENVIO.Servicios
                     Request.Quantity = param.Quantity;
                     Request.ManualPrice = param.ManualPrice;
                     Request.AttString = param.AttString;
-                    if (elem.Serie != null &&  elem.Serie != "" )//string.IsNullOrEmpty(elem.Serie) ) // && !(string.IsNullOrEmpty(elem.Serie) || string.IsNullOrWhiteSpace(elem.Serie)) )
-                    Request.AttString = Request.AttString + ","+elem.Serie;
+                    if (elem.Serie != null && elem.Serie != "")//string.IsNullOrEmpty(elem.Serie) ) // && !(string.IsNullOrEmpty(elem.Serie) || string.IsNullOrWhiteSpace(elem.Serie)) )
+                        Request.AttString = Request.AttString + "," + elem.Serie;
+                    else
+                        Request.AttString = Request.AttString + ",";
                     if (elem.EstadoInv != null && elem.EstadoInv != "") // && (string.IsNullOrEmpty(elem.EstadoInv) || string.IsNullOrWhiteSpace(elem.EstadoInv)))
                         Request.AttString = Request.AttString + "," + elem.EstadoInv;
+                    else
+                        Request.AttString = Request.AttString + ",";
                     Request.Registrationid = elem.RegisterID;
 
                     await using (ServiceBusClient client = new ServiceBusClient(cadenaConexion))

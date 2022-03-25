@@ -260,6 +260,7 @@ namespace ICAJ012.api.Controllers
                             APLedgerJournalTransICAJ012_ResponseList.APUserGeneMovi = elem.APUserGeneMovi;
                             APLedgerJournalTransICAJ012_ResponseList.ApTransactionType = elem.ApTransactionType;
                             APLedgerJournalTransICAJ012_ResponseList.ApBoxCode = elem.ApBoxCode;
+                            APLedgerJournalTransICAJ012_ResponseList.Voucher = elem.Voucher;
                             APLedgerJournalTransICAJ012_ResponseList.APFinancialDimensionList = new List<APFinancialDimension_Response>();
                             if (elem.APFinancialDimensionList != null)
                             {

@@ -316,7 +316,6 @@ E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\ICXP003.api\ICXP003\bin\Deb
 E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\ICXP003.api\ICXP003\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\ICXP003.api\ICXP003\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
 E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\ICXP003.api\ICXP003\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
-E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\ICXP003.api\ICXP003\obj\Debug\netcoreapp3.1\ICXP003.csproj.AssemblyReference.cache
 E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\ICXP003.api\ICXP003\obj\Debug\netcoreapp3.1\ICXP003.GeneratedMSBuildEditorConfig.editorconfig
 E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\ICXP003.api\ICXP003\obj\Debug\netcoreapp3.1\ICXP003.AssemblyInfoInputs.cache
 E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\ICXP003.api\ICXP003\obj\Debug\netcoreapp3.1\ICXP003.AssemblyInfo.cs

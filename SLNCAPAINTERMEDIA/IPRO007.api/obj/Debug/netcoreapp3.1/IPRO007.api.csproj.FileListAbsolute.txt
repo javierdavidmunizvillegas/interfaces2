@@ -194,7 +194,6 @@ E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IPRO007.api\bin\Debug\netco
 E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IPRO007.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IPRO007.api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IPRO007.api\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
-E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IPRO007.api\obj\Debug\netcoreapp3.1\IPRO007.api.csproj.AssemblyReference.cache
 E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IPRO007.api\obj\Debug\netcoreapp3.1\IPRO007.api.GeneratedMSBuildEditorConfig.editorconfig
 E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IPRO007.api\obj\Debug\netcoreapp3.1\IPRO007.api.AssemblyInfoInputs.cache
 E:\MONICA\InterfaceDEF\interfaces2\SLNCAPAINTERMEDIA\IPRO007.api\obj\Debug\netcoreapp3.1\IPRO007.api.AssemblyInfo.cs
